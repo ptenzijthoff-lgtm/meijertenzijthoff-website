@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/styles.css": "styles.css"});
   eleventyConfig.addPassthroughCopy({"src/scripts.js": "scripts.js"});
   eleventyConfig.addPassthroughCopy({"src/favicon.svg": "favicon.svg"});
+  eleventyConfig.addPassthroughCopy({"src/fotomeijer.jpg": "fotomeijer.jpg"});  
   eleventyConfig.addPassthroughCopy({"src/images": "images"});
   eleventyConfig.addPassthroughCopy({"src/robots.txt": "robots.txt"});
   eleventyConfig.addPassthroughCopy("admin");
