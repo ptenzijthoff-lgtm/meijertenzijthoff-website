@@ -79,12 +79,12 @@ a:hover { color: var(--color-flame-mid); }
 
 .header-tagline {
     position: absolute;
-    bottom: 15px;
-    right: 20px;
+    bottom: 20px;
+    right: 25px;
     font-family: var(--font-body);
-    font-size: 0.9rem;
-    color: rgba(255,255,255,0.9);
-    text-shadow: 1px 1px 4px #000000;
+    font-size: 1.2rem;
+    color: rgba(255,255,255,0.95);
+    text-shadow: 2px 2px 6px #000000;
     z-index: 10;
 }
 
