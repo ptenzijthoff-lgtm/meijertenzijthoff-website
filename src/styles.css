@@ -41,7 +41,8 @@ a:hover { color: var(--color-flame-mid); }
 .header-overlay {
     position: absolute;
     inset: 0;
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.4);
+    z-index: 1;
 }
 .header-content 
     position: relative;
