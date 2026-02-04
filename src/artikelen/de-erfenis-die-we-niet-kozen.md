@@ -2,7 +2,7 @@
 titel: De erfenis die we niet kozen maar wel dragen
 beschrijving: Wat betekent het om zowel slachtoffer als dader in je stamboom te hebben?
 categorie: opinie
-datum: 2026-01-10
+datum: 2026-02-04
 afbeelding: /images/uploads/rudi-e.-groen-enhanced-colorized.jpg
 uitgelicht: false
 ---
