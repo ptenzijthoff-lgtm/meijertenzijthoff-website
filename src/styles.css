@@ -101,7 +101,7 @@ a:hover { color: var(--color-flame-mid); }
         font-size: 0.85rem;
         bottom: 10px;
         right: 15px;
-}
+    }
     .header-tagline span {
         font-size: 0.75rem;
     }
