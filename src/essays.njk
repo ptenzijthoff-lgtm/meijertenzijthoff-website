@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+title: Essays
+description: Essays van Meijer ten Zijthoff over identiteit, erfenis en intergenerationeel trauma.
+permalink: /essays/
+---
+
+<div class="page-intro">
+    <h2>Essays</h2>
+    <p>Langere, diepgravende stukken over identiteit, erfenis, herinnering en intergenerationeel trauma.</p>
+</div>
+
+<div class="articles-list">
+    {% for artikel in collections.essays %}
+    <article class="article-card">
+        <div class="article-meta">
+            <span class="category essay">Essay</span> · {{ artikel.data.datum | dutchDate }}
+        </div>
+        <h3 class="article-title">
+            <a href="{{ artikel.url }}">{{ artikel.data.titel }}</a>
+        </h3>
+        <p class="article-excerpt">{{ artikel.data.beschrijving }}</p>
+    </article>
+    {% else %}
+    <p class="no-articles">Nog geen essays gepubliceerd.</p>
+    {% endfor %}
+</div>
