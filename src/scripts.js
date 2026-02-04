@@ -55,4 +55,3 @@ function submitContactForm(event) {
     window.location.href = `mailto:p.tenzijthoff@gmail.com?subject=${subject}&body=${body}`;
 }
 
-**Commit changes!**
