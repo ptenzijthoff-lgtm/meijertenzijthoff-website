@@ -1,6 +1,6 @@
 ---
-titel: "Over zwijgen en spreken: waarom woorden soms pas na decennia komen"
-beschrijving: "Trauma kent geen kalender. Het wacht geduldig, soms generaties lang, tot iemand de moed vindt om het onder woorden te brengen."
+titel: Voorlopige gedachten
+beschrijving: Dit essay wordt momenteel geschreven. Binnenkort volgt hier de volledige tekst.
 categorie: essay
 datum: 2026-01-15
 uitgelicht: true
