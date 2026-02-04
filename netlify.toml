@@ -9,3 +9,15 @@
   from = "/*"
   to = "/404.html"
   status = 404
+
+  [[redirects]]
+  from = "http://degroenepaauw.nl/*"
+  to = "https://degroenepaauw.nl/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.degroenepaauw.nl/*"
+  to = "https://degroenepaauw.nl/:splat"
+  status = 301
+  force = true
