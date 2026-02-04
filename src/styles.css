@@ -56,7 +56,8 @@ a:hover { color: var(--color-flame-mid); }
 .site-title {
     font-family: var(--font-display);
     font-size: 3.5rem;
-    font-weight: 400;
+    font-weight: 500;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
 }
 
 .site-title a { color: #ffffff; }
@@ -66,7 +67,8 @@ a:hover { color: var(--color-flame-mid); }
     font-family: var(--font-display);
     font-size: 1.3rem;
     font-style: italic;
-    color: rgba(255, 255, 255, 0.85);
+    color: #ffffff;
+    text-shadow: 1px 1px 6px rgba(0,0,0,0.8);
 }
 
 .accent-bar {
