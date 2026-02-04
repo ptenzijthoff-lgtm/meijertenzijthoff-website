@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+title: Home
+description: Opinie en essays van Meijer ten Zijthoff over identiteit, erfenis en intergenerationeel trauma.
+---
+
+{% set uitgelichtArtikel = collections.uitgelicht | first %}
+{% if uitgelichtArtikel %}
+<section class="featured-article">
+    <span class="featured-label">★ Uitgelicht</span>
+    <article class="featured-card">
+        {% if uitgelichtArtikel.data.afbeelding %}
+        <div class="featured-image">
+            <img src="{{ uitgelichtArtikel.data.afbeelding }}" alt="{{ uitgelichtArtikel.data.titel }}" loading="lazy">
+        </div>
+        {% endif %}
+        <div class="featured-content">
+            <div class="article-meta">
+                <span class="category {{ uitgelichtArtikel.data.categorie }}">{% if uitgelichtArtikel.data.categorie == "opinie" %}Opinie{% elif uitgelichtArtikel.data.categorie == "essay" %}Essay{% elif uitgelichtArtikel.data.categorie == "column" %}Column{% endif %}</span> · {{ uitgelichtArtikel.data.datum | dutchDate }}
+            </div>
+            <h2 class="article-title">
+                <a href="{{ uitgelichtArtikel.url }}">{{ uitgelichtArtikel.data.titel }}</a>
+            </h2>
+            <p class="article-excerpt">{{ uitgelichtArtikel.data.beschrijving }}</p>
+        </div>
+    </article>
+</section>
+{% endif %}
+<section class="recent-articles">
+    <h2>Recente artikelen</h2>
+    <div class="articles-list">
+        {% for artikel in collections.artikelen %}
+        {% if not artikel.data.uitgelicht %}
+        <article class="article-card">
+            <div class="article-meta">
+                <span class="category {{ artikel.data.categorie }}">{% if artikel.data.categorie == "opinie" %}Opinie{% elif artikel.data.categorie == "essay" %}Essay{% elif artikel.data.categorie == "column" %}Column{% endif %}</span> · {{ artikel.data.datum | dutchDate }}
+            </div>
+            <h3 class="article-title">
+                <a href="{{ artikel.url }}">{{ artikel.data.titel }}</a>
+            </h3>
+            <p class="article-excerpt">{{ artikel.data.beschrijving }}</p>
+        </article>
+        {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+<section class="about-section">
+    <h2>Over de auteur</h2>
+    <p>Meijer ten Zijthoff is auteur van <em>Alles is Nu</em> en <em>Street</em>, en werkt momenteel aan zijn derde boek <em>Nooit meer Zwijgen</em> over intergenerationeel trauma tussen Holocaust en Nakba.</p>
+    <a href="/over/" class="read-more">Lees meer →</a>
+</section>
