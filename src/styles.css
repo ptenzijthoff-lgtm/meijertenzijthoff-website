@@ -93,6 +93,7 @@ a:hover { color: var(--color-flame-mid); }
 .header-tagline span {
     font-size: 0.95rem;
     font-style: italic;
+    display: block;
 }
 
 @media (max-width: 768px) {
