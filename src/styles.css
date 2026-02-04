@@ -104,7 +104,7 @@ a:hover { color: var(--color-flame-mid); }
 }
     .header-tagline span {
         font-size: 0.75rem;
-    
+    }
 }
 
 .site-title a { color: #ffffff; }
