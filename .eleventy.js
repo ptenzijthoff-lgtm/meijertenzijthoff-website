@@ -1,10 +1,11 @@
+
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/styles.css");
-  eleventyConfig.addPassthroughCopy("src/scripts.js");
-  eleventyConfig.addPassthroughCopy("src/favicon.svg");
-  eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy({"src/styles.css": "styles.css"});
+  eleventyConfig.addPassthroughCopy({"src/scripts.js": "scripts.js"});
+  eleventyConfig.addPassthroughCopy({"src/favicon.svg": "favicon.svg"});
+  eleventyConfig.addPassthroughCopy({"src/images": "images"});
+  eleventyConfig.addPassthroughCopy({"src/robots.txt": "robots.txt"});
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("src/robots.txt");
   
   eleventyConfig.addFilter("dutchDate", (dateObj) => {
     const months = ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 
@@ -22,7 +23,8 @@ module.exports = function(eleventyConfig) {
       return new Date(b.data.datum) - new Date(a.data.datum);
     });
   });
- eleventyConfig.addCollection("opinie", function(collectionApi) {
+
+  eleventyConfig.addCollection("opinie", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/artikelen/*.md")
       .filter(item => item.data.categorie === "opinie")
       .sort((a, b) => new Date(b.data.datum) - new Date(a.data.datum));
@@ -39,7 +41,8 @@ module.exports = function(eleventyConfig) {
       .filter(item => item.data.categorie === "column")
       .sort((a, b) => new Date(b.data.datum) - new Date(a.data.datum));
   });
-   eleventyConfig.addCollection("uitgelicht", function(collectionApi) {
+
+  eleventyConfig.addCollection("uitgelicht", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/artikelen/*.md")
       .filter(item => item.data.uitgelicht === true)
       .sort((a, b) => new Date(b.data.datum) - new Date(a.data.datum));
