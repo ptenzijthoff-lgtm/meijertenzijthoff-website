@@ -1,4 +1,4 @@
-const SITE_URL = 'https://meijertenzijthoff.nl';
+const SITE_URL = 'https://degroenepaauw.nl';
 
 function shareArticle(platform, title, url) {
     const fullUrl = SITE_URL + url;
