@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+title: Contact
+description: Neem contact op met Meijer ten Zijthoff.
+permalink: /contact/
+---
+
+<div class="page-content contact-page">
+    <h2>Contact</h2>
+    
+    <p>Heb je een vraag, reactie of wil je samenwerken? Stuur me een bericht via onderstaand formulier.</p>
+    
+    <form class="contact-form" id="contactForm" onsubmit="submitContactForm(event)">
+        <div class="form-group">
+            <label for="naam">Naam</label>
+            <input type="text" id="naam" name="naam" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="email">E-mailadres</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="bericht">Bericht</label>
+            <textarea id="bericht" name="bericht" rows="6" required></textarea>
+        </div>
+        
+        <button type="submit" class="btn-primary">Verstuur bericht</button>
+    </form>
+</div>
