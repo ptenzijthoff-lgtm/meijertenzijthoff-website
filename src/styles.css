@@ -63,7 +63,7 @@ a:hover { color: var(--color-flame-mid); }
 
 .site-title a { color: #ffffff; }
 .site-title a:hover { color: #ffffff; }
-
+}
 .site-subtitle {
     font-family: var(--font-display);
     font-size: 1.4rem;
