@@ -38,13 +38,14 @@ a:hover { color: var(--color-flame-mid); }
     object-fit: cover;
     object-position: left center;
 }
+
 .header-overlay {
     position: absolute;
     inset: 0;
     background: rgba(0,0,0,0.4);
-    z-index: 1;
 }
-.header-content 
+
+.header-content {
     position: relative;
     z-index: 10;
     height: 100%;
@@ -59,10 +60,22 @@ a:hover { color: var(--color-flame-mid); }
     font-family: var(--font-display);
     font-size: 3.5rem;
     font-weight: 600;
-    color: #ffffff;
-    text-shadow: 2px 2px 4px #000000;
 }
 
+.site-title a { 
+    color: #ffffff; 
+    text-shadow: 2px 2px 8px #000000;
+}
+
+.site-title a:hover { color: #ffffff; }
+
+.site-subtitle {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-style: italic;
+    color: #ffffff;
+    text-shadow: 2px 2px 6px #000000;
+}
 .site-title a { color: #ffffff; }
 .site-title a:hover { color: #ffffff; }
 
