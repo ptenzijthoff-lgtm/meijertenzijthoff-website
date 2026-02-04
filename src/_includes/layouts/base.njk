@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ titel | default(title) }} — Meijer ten Zijthoff</title>
+    <meta name="description" content="{{ beschrijving | default(description) | default('Opinie en essays van Meijer ten Zijthoff.') }}">
+    
+    <meta property="og:title" content="{{ titel | default(title) }}">
+    <meta property="og:description" content="{{ beschrijving | default(description) | default('Opinie en essays van Meijer ten Zijthoff') }}">
+    <meta property="og:type" content="{{ ogType | default('website') }}">
+    <meta property="og:url" content="https://meijertenzijthoff.nl{{ page.url }}">
+    <meta property="og:locale" content="nl_NL">
+    <meta property="og:site_name" content="Meijer ten Zijthoff">
+    {% if afbeelding %}
+    <meta property="og:image" content="https://meijertenzijthoff.nl{{ afbeelding }}">
+    {% endif %}
+    {% if datum %}
+    <meta property="article:published_time" content="{{ datum | isoDate }}">
+    <meta property="article:author" content="Meijer ten Zijthoff">
+    {% endif %}
+    
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-bg"></div>
+        <svg class="header-illustration" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice">
+            <defs>
+                <linearGradient id="flameGrad1" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#ff6b35" stop-opacity="0.9"/><stop offset="40%" stop-color="#c41e3a" stop-opacity="0.6"/><stop offset="100%" stop-color="#8b0000" stop-opacity="0"/></linearGradient>
+                <linearGradient id="flameGrad2" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#ff8c42" stop-opacity="0.8"/><stop offset="50%" stop-color="#d4380d" stop-opacity="0.5"/><stop offset="100%" stop-color="#722020" stop-opacity="0"/></linearGradient>
+                <linearGradient id="paperGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5f0e6" stop-opacity="0.9"/><stop offset="100%" stop-color="#e8dcc8" stop-opacity="0.85"/></linearGradient>
+                <linearGradient id="inkGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#16213e"/></linearGradient>
+                <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+            </defs>
+            <g opacity="0.5"><path d="M0,400 Q30,350 50,280 Q70,210 60,140 Q50,70 80,20 Q110,70 100,140 Q90,210 120,280 Q150,350 180,400 Z" fill="url(#flameGrad1)" filter="url(#glow)"/><path d="M80,400 Q120,330 140,260 Q160,190 150,120 Q140,50 180,10 Q220,50 210,120 Q200,190 240,260 Q280,330 320,400 Z" fill="url(#flameGrad2)" filter="url(#glow)"/></g>
+            <g opacity="0.5"><path d="M620,400 Q660,340 680,270 Q700,200 690,130 Q680,60 720,20 Q760,60 750,130 Q740,200 770,270 Q800,340 800,400 Z" fill="url(#flameGrad1)" filter="url(#glow)"/><path d="M700,400 Q730,350 750,290 Q770,230 760,170 Q750,110 780,60 Q810,110 800,170 Q790,230 810,290 Q830,350 850,400 Z" fill="url(#flameGrad2)" filter="url(#glow)"/></g>
+            <g transform="translate(250, 60) rotate(-5)"><rect x="0" y="0" width="280" height="340" rx="3" fill="url(#paperGrad)" opacity="0.95"/><rect x="0" y="0" width="280" height="340" rx="3" fill="none" stroke="#d4c4a8" stroke-width="1"/><g stroke="#c9b896" stroke-width="0.5" opacity="0.6"><line x1="30" y1="60" x2="250" y2="60"/><line x1="30" y1="90" x2="250" y2="90"/><line x1="30" y1="120" x2="250" y2="120"/><line x1="30" y1="150" x2="250" y2="150"/><line x1="30" y1="180" x2="250" y2="180"/><line x1="30" y1="210" x2="250" y2="210"/></g><g fill="none" stroke="#2c1810" stroke-width="1.5" stroke-linecap="round" opacity="0.7"><path d="M40,58 Q60,52 80,58 Q100,64 120,58 Q140,52 160,58 Q180,64 200,58"/><path d="M40,88 Q70,82 100,88 Q130,94 160,88 Q190,82 220,88"/><path d="M40,118 Q55,112 70,118 Q85,124 100,118 Q115,112 130,118 Q145,124 180,118"/></g></g>
+            <g transform="translate(480, 100) rotate(25)"><path d="M0,0 Q-15,40 -10,100 Q-5,160 0,220 Q5,160 10,100 Q15,40 0,0" fill="#2c1810" opacity="0.9"/><path d="M-3,220 L0,280 L3,220 Z" fill="url(#inkGrad)"/></g>
+            <g fill="#1a1a2e" opacity="0.6"><circle cx="520" cy="340" r="4"/><circle cx="535" cy="355" r="2.5"/></g>
+            <g opacity="0.4"><path d="M300,400 Q340,360 360,310 Q380,260 375,210 Q370,160 400,130 Q430,160 425,210 Q420,260 450,310 Q480,360 520,400 Z" fill="url(#flameGrad2)" filter="url(#glow)"/></g>
+        </svg>
+        <div class="header-overlay"></div>
+        <div class="header-content">
+            <h1 class="site-title"><a href="/">Meijer ten Zijthoff</a></h1>
+            <p class="site-subtitle">Opinie & Essays</p>
+        </div>
+    </header>
+    <div class="accent-bar"></div>
+    
+    <nav class="main-nav">
+        <ul>
+            <li><a href="/"{% if page.url == "/" %} class="active"{% endif %}>Home</a></li>
+            <li><a href="/opinie/"{% if page.url == "/opinie/" %} class="active"{% endif %}>Opinie</a></li>
+            <li><a href="/essays/"{% if page.url == "/essays/" %} class="active"{% endif %}>Essays</a></li>
+            <li><a href="/columns/"{% if page.url == "/columns/" %} class="active"{% endif %}>Columns</a></li>
+            <li><a href="/over/"{% if page.url == "/over/" %} class="active"{% endif %}>Over mij</a></li>
+            <li><a href="/contact/"{% if page.url == "/contact/" %} class="active"{% endif %}>Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main class="main-content">
+        {{ content | safe }}
+    </main>
+    
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-share">
+                <p>Deel deze website</p>
+                <div class="footer-share-buttons">
+                    <button class="footer-share-btn whatsapp" onclick="shareSiteWhatsApp()" title="WhatsApp"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></button>
+                    <button class="footer-share-btn facebook" onclick="shareSiteFacebook()" title="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></button>
+                    <button class="footer-share-btn twitter" onclick="shareSiteTwitter()" title="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></button>
+                    <button class="footer-share-btn bluesky" onclick="shareSiteBluesky()" title="Bluesky"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 01-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg></button>
+                    <button class="footer-share-btn linkedin" onclick="shareSiteLinkedIn()" title="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></button>
+                    <button class="footer-share-btn link" onclick="copySiteLink(this)" title="Kopieer link"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button>
+                </div>
+            </div>
+            <nav class="footer-links">
+                <a href="/over/">Over mij</a>
+                <a href="/contact/">Contact</a>
+            </nav>
+            <p class="footer-copyright">© 2026 Meijer ten Zijthoff · Leeuwarden</p>
+        </div>
+    </footer>
+    <script src="/scripts.js"></script>
+</body>
+</html>
