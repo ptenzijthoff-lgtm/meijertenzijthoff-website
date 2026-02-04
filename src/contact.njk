@@ -10,11 +10,8 @@ permalink: /contact/
     
     <p>Heb je een vraag, reactie of wil je samenwerken? Stuur me een bericht.</p>
     
-    <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/bedankt/">
+    <form class="contact-form" name="contact" method="POST" data-netlify="true" action="/bedankt/">
         <input type="hidden" name="form-name" value="contact">
-        <p class="hidden" style="display:none;">
-            <label>Niet invullen: <input name="bot-field"></label>
-        </p>
         
         <div class="form-group">
             <label for="naam">Naam</label>
@@ -25,8 +22,8 @@ permalink: /contact/
             <label for="email">E-mailadres</label>
             <input type="email" id="email" name="email" required>
         </div>
-        
-        <div class="form-group">
+
+<div class="form-group">
             <label for="bericht">Bericht</label>
             <textarea id="bericht" name="bericht" rows="6" required></textarea>
         </div>
