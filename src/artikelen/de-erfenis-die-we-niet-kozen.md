@@ -1,8 +1,9 @@
 ---
-titel: "De erfenis die we niet kozen maar wel dragen"
-beschrijving: "Wat betekent het om zowel slachtoffer als dader in je stamboom te hebben?"
-categorie: opinie
+titel: De erfenis die we niet kozen maar wel dragen
+beschrijving: Wat betekent het om zowel slachtoffer als dader in je stamboom te hebben?
+categorie: column
 datum: 2026-01-10
+afbeelding: /images/uploads/meijer.jpg
 uitgelicht: false
 ---
 
