@@ -1,9 +1,9 @@
 ---
-titel: De erfenis die we niet kozen maar wel dragen
-beschrijving: Wat betekent het om zowel slachtoffer als dader in je stamboom te hebben?
+titel: Ontbrekende woorden
+beschrijving: Hier begint het verhaal, ook al ontbreken de woorden nog.
 categorie: opinie
 datum: 2026-02-04
-afbeelding: /images/uploads/rudi-e.-groen-enhanced-colorized.jpg
+afbeelding: ""
 uitgelicht: false
 ---
 Er zijn erfenissen waar je niet om vraagt. Geen huizen, geen geld, geen familiestukken — maar verhalen.
