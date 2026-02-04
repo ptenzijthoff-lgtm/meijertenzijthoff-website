@@ -8,9 +8,14 @@ permalink: /contact/
 <div class="page-content contact-page">
     <h2>Contact</h2>
     
-    <p>Heb je een vraag, reactie of wil je samenwerken? Stuur me een bericht via onderstaand formulier.</p>
+    <p>Heb je een vraag, reactie of wil je samenwerken? Stuur me een bericht.</p>
     
-    <form class="contact-form" id="contactForm" onsubmit="submitContactForm(event)">
+    <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/bedankt/">
+        <input type="hidden" name="form-name" value="contact">
+        <p class="hidden" style="display:none;">
+            <label>Niet invullen: <input name="bot-field"></label>
+        </p>
+        
         <div class="form-group">
             <label for="naam">Naam</label>
             <input type="text" id="naam" name="naam" required>
