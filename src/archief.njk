@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+title: Archief
+description: Alle artikelen op De Groene Paauw.
+permalink: /archief/
+---
+
+<div class="page-intro">
+    <h2>Archief</h2>
+    <p>Alle eerder gepubliceerde artikelen, van nieuw naar oud.</p>
+</div>
+
+<div class="articles-list">
+    {% for artikel in collections.artikelen %}
+    <article class="article-card">
+        <div class="article-meta">
+            <span class="category {{ artikel.data.categorie }}">{% if artikel.data.categorie == "opinie" %}Opinie{% elif artikel.data.categorie == "essay" %}Essay{% elif artikel.data.categorie == "column" %}Column{% endif %}</span> · {{ artikel.data.datum | dutchDate }}
+        </div>
+        <h3 class="article-title">
+            <a href="{{ artikel.url }}">{{ artikel.data.titel }}</a>
+        </h3>
+        <p class="article-excerpt">{{ artikel.data.beschrijving }}</p>
+    </article>
+    {% else %}
+    <p class="no-articles">Nog geen artikelen in het archief.</p>
+    {% endfor %}
+</div>
