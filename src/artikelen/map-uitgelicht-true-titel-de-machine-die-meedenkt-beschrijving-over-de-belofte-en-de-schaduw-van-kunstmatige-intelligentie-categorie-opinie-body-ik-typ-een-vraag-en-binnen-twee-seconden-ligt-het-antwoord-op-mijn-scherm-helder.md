@@ -10,7 +10,9 @@ Ik typ een vraag en binnen twee seconden ligt het antwoord op mijn scherm. Helde
 
 Want waar eindigt het gereedschap en begint de vervanging? Ik gebruik AI om teksten te redigeren, om structuur aan te brengen in chaos, om sneller te vinden wat ik zoek. Het bespaart me uren. Soms dagen. Maar telkens als ik op die knop druk, sluipt er een vraag naar binnen die ik liever zou negeren. Is dit nog van mij?
 
-We leven in een tijd waarin een algoritme je column kan schrijven, je sollicitatiebrief kan opstellen en je medisch dossier kan samenvatten. Studenten laten hun scripties schrijven door een chatbot. Journalisten laten hun onderzoek doen door een zoekmachine die zelf conclusies trekt. En ergens in een kantoor zit iemand die net zijn baan is kwijtgeraakt aan een stuk software dat nooit ziek is, nooit klaagt en nooit om opslag vraagt.
+We leven in een tijd waarin een algoritme je column kan schrijven, je sollicitatiebrief kan opstellen en je medisch dossier kan samenvatten. Studenten laten hun scripties schrijven door een chatbot. Journalisten laten hun onderzoek doen door een zoekmachine die zelf conclusies trekt. 
+
+> En ergens in een kantoor zit iemand die net zijn baan is kwijtgeraakt aan een stuk software dat nooit ziek is, nooit klaagt en nooit om opslag vraagt.
 
 De belofte is verleidelijk. AI maakt kennis toegankelijk. Het doorbreekt drempels voor mensen die niet de juiste opleiding hebben gehad, niet de juiste taal spreken, niet de juiste mensen kennen. Een boer in Friesland kan dezelfde informatie opvragen als een professor in Amsterdam. Dat is mooi. Dat is eerlijk. Dat is ook precies het verhaal dat de techbedrijven ons willen laten geloven.
 
