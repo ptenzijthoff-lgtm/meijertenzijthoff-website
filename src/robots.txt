@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meijertenzijthoff.nl/sitemap.xml
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+Sitemap: https://degroenepaauw.nl/sitemap.xml
