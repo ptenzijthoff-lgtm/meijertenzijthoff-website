@@ -1,6 +1,8 @@
 ---
 titel: De machine die meedenkt
-beschrijving: Over de belofte en de schaduw van kunstmatige intelligentie
+beschrijving: |-
+  Over de belofte en de schaduw van kunstmatige intelligentie
+  -Meijer ten Zijthoff-
 categorie: opinie
 datum: 2026-02-05
 afbeelding: /images/uploads/ai.jpg
