@@ -42,7 +42,12 @@ module.exports = function(eleventyConfig) {
       .filter(item => item.data.categorie === "column")
       .sort((a, b) => new Date(b.data.datum) - new Date(a.data.datum));
   });
-
+  
+eleventyConfig.addCollection("boeken", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/boeken/*.md");
+  
+  });  
+  
   eleventyConfig.addCollection("uitgelicht", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/artikelen/*.md")
       .filter(item => item.data.uitgelicht === true)
