@@ -5,4 +5,4 @@ categorie: essay
 datum: 2026-01-15
 uitgelicht: false
 ---
-...
+> ...wat is er allemaal aan de hand nu . Ik weet het ook niet meer
