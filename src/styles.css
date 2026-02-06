@@ -508,7 +508,7 @@ a:hover { color: var(--color-flame-mid); }
     height: auto;
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-}
+    align-self: flex-start;}
 
 .boek-info h3 {
     font-family: var(--font-display);
