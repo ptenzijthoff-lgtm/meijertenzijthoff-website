@@ -5,7 +5,7 @@ omslag: /images/uploads/1000059877.jpg
 ---
 Op zijn zesendertigste ontdekt Meijer ten Zijthoff wat hij zijn hele leven heeft gemist: zijn afkomst. Wat hij vindt is een paradox. Zijn ene grootvader overleefde zes concentratiekampen. Zijn andere grootvader vocht voor de Kriegsmarine.
 
-> Slachtoffer en dader. Twee stiltes. Verenigd in één mens
+**Slachtoffer en dader. Twee stiltes. Verenigd in één mens**
 
 In dit indringende boek volgt Ten Zijthoff de lijnen van zijn grootvaders: Max Groen, die door Auschwitz en Sachsenhausen ging en later de stem van Radio Veronica werd, en Lowie de Paauw, die uit armoede koos voor de verkeerde kant en driemaal probeerde te deserteren. Hij schrijft over zijn biologische moeder Gerrie, die als NSB-kind opgroeide met een schaamte die nooit de hare was.
 
