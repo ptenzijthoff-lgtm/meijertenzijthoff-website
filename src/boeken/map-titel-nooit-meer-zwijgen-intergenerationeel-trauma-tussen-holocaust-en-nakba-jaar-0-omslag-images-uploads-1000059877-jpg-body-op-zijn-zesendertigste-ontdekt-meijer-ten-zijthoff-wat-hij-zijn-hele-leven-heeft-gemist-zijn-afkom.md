@@ -3,7 +3,7 @@ titel: "Nooit meer Zwijgen: Intergenerationeel trauma tussen Holocaust en Nakba"
 jaar: nog te verschijnen
 omslag: /images/uploads/1000059877.jpg
 ---
-> Op zijn zesendertigste ontdekt Meijer ten Zijthoff wat hij zijn hele leven heeft gemist: zijn afkomst. Wat hij vindt is een paradox. Zijn ene grootvader overleefde zes concentratiekampen. Zijn andere grootvader vocht voor de Kriegsmarine.
+Op zijn zesendertigste ontdekt Meijer ten Zijthoff wat hij zijn hele leven heeft gemist: zijn afkomst. Wat hij vindt is een paradox. Zijn ene grootvader overleefde zes concentratiekampen. Zijn andere grootvader vocht voor de Kriegsmarine.
 
 Slachtoffer en dader. Twee stiltes. Verenigd in één mens
 
