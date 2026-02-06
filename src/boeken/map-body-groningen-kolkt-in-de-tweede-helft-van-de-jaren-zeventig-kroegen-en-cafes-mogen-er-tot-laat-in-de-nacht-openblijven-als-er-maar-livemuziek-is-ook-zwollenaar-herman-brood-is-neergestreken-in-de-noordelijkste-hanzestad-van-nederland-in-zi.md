@@ -11,5 +11,5 @@ Vóór die tijd maakte Brood als pianist furore bij de legendarische Nederlandse
 Meijer ten Zijthoff (1961) stond al vóór het debuutalbum Street vooraan bij optredens van Herman Brood. De muziek van Brood markeerde een wending in zijn leven: 'Hey boy, I can see you're one of your own.' In 2018 verscheen zijn autobiografie Alles is nu, beschadigd maar niet ontspoord.
 
 304 pagina's\
-IISBN: 9789082775716\
+ISBN: 9789082775716\
 Uitverkocht
