@@ -2,7 +2,7 @@
 titel: Street, een roadtrip door het noorden op zoek naar Herman Broods Wild
   Romance 1976-1978
 jaar: "2022"
-omslag: /images/uploads/street.png
+omslag: /images/uploads/chatgpt-image-6-feb-2026-12_19_12.png
 ---
 Groningen kolkt in de tweede helft van de jaren zeventig. Kroegen en cafés mogen er tot laat in de nacht openblijven. Als er maar livemuziek is. Ook Zwollenaar Herman Brood is neergestreken in de noordelijkste Hanzestad van Nederland. In zijn kielzog floreert de muziekscene van Groningen: Groninger Springtij. Bands als New Adventures, Jan Rot & Streetbeats, Phoney & The Hardcore, The Meteors en AA & The Doctors maken naam. Brood springt eruit. Zijn nummers zijn kort, catchy en bezield. Over drugsgebruik en leven aan de zelfkant. Geen zanger zonder muzikanten. In 1976 doopt hij zijn begeleidingsband Wild Romance.
 
