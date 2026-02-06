@@ -33,3 +33,14 @@ collections:
       - { label: "Afbeelding omschrijving", name: "afbeelding_alt", widget: "string", required: false, hint: "Beschrijving voor slechtzienden" }
       - { label: "Uitgelicht op homepage", name: "uitgelicht", widget: "boolean", default: false }
       - { label: "Inhoud", name: "body", widget: "markdown" }
+      - name: "boeken"
+    label: "Boeken"
+    folder: "src/boeken"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "titel", widget: "string"}
+      - {label: "Jaar", name: "jaar", widget: "string"}
+      - {label: "Omslag", name: "omslag", widget: "image", required: false}
+      - {label: "Waar te koop", name: "kooplink", widget: "string", required: false, hint: "Link naar webshop of boekhandel"}
+      - {label: "Beschrijving", name: "body", widget: "markdown"}
