@@ -1,7 +1,7 @@
 ---
 titel: Alles Is Nu
 jaar: "2018"
-omslag: /images/uploads/chatgpt-image-6-feb-2026-12_13_08.png
+omslag: /images/uploads/chatgpt-image-6-feb-2026-12_24_05.png
 kooplink: https://degroenepaauw.nl/contact/
 ---
 Verloopt het leven van de een redelijk kalm en voorspelbaar, dat van een ander lijkt wel een achtbaan met een aaneenschakeling aan spannende avonturen, zoektochten en confrontaties. Het verhaal van Meijer, bij anderen beter bekend als Pieter, ten Zijthoff, valt in de laatste categorie.
