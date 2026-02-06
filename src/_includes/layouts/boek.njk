@@ -1,0 +1,14 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="boek-detail">
+    <h2>{{ titel }}</h2>
+    <p class="boek-jaar">{{ jaar }}</p>
+    {% if omslag %}
+    <img src="{{ omslag }}" alt="{{ titel }}" class="boek-omslag">
+    {% endif %}
+    <div class="boek-beschrijving">
+        {{ content | safe }}
+    </div>
+</div>
