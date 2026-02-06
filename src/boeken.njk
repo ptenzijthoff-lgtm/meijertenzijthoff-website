@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+title: Boeken
+description: De boeken van Meijer ten Zijthoff.
+permalink: /boeken/
+---
+
+<div class="page-content boeken-page">
+    <h2>Boeken</h2>
+    
+    {% for boek in collections.boeken %}
+    <div class="boek-item">
+        {% if boek.data.omslag %}
+        <img src="{{ boek.data.omslag }}" alt="{{ boek.data.titel }}" class="boek-thumb">
+        {% endif %}
+        <div class="boek-info">
+            <h3>{{ boek.data.titel }}</h3>
+            <p class="boek-jaar">{{ boek.data.jaar }}</p>
+            <div class="boek-beschrijving">{{ boek.content | safe }}</div>
+            {% if boek.data.kooplink %}
+            <a href="{{ boek.data.kooplink }}" target="_blank" class="boek-koop">Bestel dit boek →</a>
+            {% endif %}
+        </div>
+    </div>
+    {% else %}
+    <p>Nog geen boeken toegevoegd.</p>
+    {% endfor %}
+</div>
