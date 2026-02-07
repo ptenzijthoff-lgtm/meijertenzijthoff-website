@@ -24,6 +24,4 @@ Ik maak me geen illusies. Ik gebruik AI zelf. Voor deze website, voor mijn werk,
 De echte vraag is niet of we AI moeten gebruiken. Die trein is vertrokken. De echte vraag is of we bereid zijn om eerlijk te zijn over wat we ervoor inleveren. Onze privacy. Onze autonomie. En misschien wel het meest kwetsbare van alles: ons vermogen om zelf na te denken, zelf te twijfelen, zelf te zoeken naar woorden die niet door een machine zijn gekozen.
 
 Want een tekst die vlekkeloos is maar nergens schuurt, die alles zegt maar niets raakt, die is niet geschreven. Die is gegenereerd.\
-En dat verschil, hoe klein het soms ook lijkt, is alles.\
-\
-Meijer ten Zijthoff
+En dat verschil, hoe klein het soms ook lijkt, is alles.
