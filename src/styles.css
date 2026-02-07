@@ -70,7 +70,7 @@ a:hover { color: var(--color-flame-mid); }
 .site-title a:hover { color: #ffffff; }
 
 .site-subtitle {
-    font-family: var(--font-display);
+    font-family: var(--font-body);    
     font-size: 1rem;
     font-style: normal;
     color: #ffffff;
