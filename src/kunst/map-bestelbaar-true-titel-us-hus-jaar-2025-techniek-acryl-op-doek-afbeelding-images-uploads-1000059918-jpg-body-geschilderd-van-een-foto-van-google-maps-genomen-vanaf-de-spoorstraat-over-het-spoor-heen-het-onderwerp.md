@@ -15,4 +15,4 @@ dat zich niets aantrekt van eigendom.
 Niet van ons omdat we het bezitten\
 maar omdat het ons bezit.
 
-Geschilderd van een foto van Google Maps, genomen vanaf de spoorstraat, over het spoor heen. Het onderwerp, het huis, is daarom niet gedetailleerd geschilderd, maar de voorgrond wel.
+Geschilderd van een foto van Google Maps, genomen vanaf de Spoorstraat, over het spoor heen. Het onderwerp, het huis, is daarom niet gedetailleerd geschilderd, maar de voorgrond wel.
