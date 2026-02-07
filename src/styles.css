@@ -563,7 +563,6 @@ a:hover { color: var(--color-flame-mid); }
 /* Kunst pagina */
 .kunst-intro {
     margin-bottom: 2.5rem;
-    font-style: italic;
     color: var(--color-ink-light);
     border-left: 3px solid var(--color-flame);
     padding-left: 1.25rem;
