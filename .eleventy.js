@@ -47,6 +47,11 @@ eleventyConfig.addCollection("boeken", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/boeken/*.md");
   
   });  
+
+  eleventyConfig.addCollection("kunst", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/kunst/*.md");
+    
+  });  
   
   eleventyConfig.addCollection("uitgelicht", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/artikelen/*.md")
