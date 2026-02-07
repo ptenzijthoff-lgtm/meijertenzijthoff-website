@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="kunstwerk-detail">
+    <h2>{{ titel }}</h2>
+    {% if afbeelding %}
+    <img src="{{ afbeelding }}" alt="{{ titel }}" class="kunstwerk-groot">
+    {% endif %}
+    <div class="kunstwerk-meta">
+        {% if jaar %}<span>{{ jaar }}</span>{% endif %}
+        {% if techniek %}<span>{{ techniek }}</span>{% endif %}
+        {% if afmetingen %}<span>{{ afmetingen }}</span>{% endif %}
+        {% if prijs %}<span class="kunstwerk-prijs">{{ prijs }}</span>{% endif %}
+    </div>
+    <div class="kunstwerk-verhaal">
+        {{ content | safe }}
+    </div>
+</div>
