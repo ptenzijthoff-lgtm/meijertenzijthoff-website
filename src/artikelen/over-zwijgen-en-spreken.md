@@ -5,7 +5,7 @@ beschrijving: >
   stemde bij de laatste verkiezingen nog geen helft van de kiesgerechtigden. Dat
   cijfer wordt meestal meestal als een probleem van de burger, alsof het aan de
   mensen ligt dat ze niet op dagen komen. Maar het zou net zo goed zijn dat iets
-  anders kan worden waargenomen.
+  anders kan worden waargenomen. - door Meijer ten Zijthoff
 categorie: essay
 datum: 2026-02-07
 afbeelding: /images/uploads/1000059908.jpg
@@ -41,6 +41,4 @@ Democratie is niet iets wat je eens in de vier jaar uit de kast haalt, afstoft e
 
 Misschien begint het met iets kleins. Met weten wie er in de raad zit. Met één keer een vergadering bijwonen, al is het maar online, al is het maar een halfuur. Met de vraag stellen die je al maanden op je lippen hebt. Met je buurman aanspreken die op een lijst staat en vragen waarom hij dat doet. Of misschien begint het met de eerlijkheid om toe te geven dat je het niet weet, dat je het bent kwijtgeraakt, dat de afstand groter is geworden dan je prettig vindt.
 
-Want dat is misschien wat deze verkiezingen uiteindelijk zijn: niet een antwoord, maar een vraag. De vraag of de plek waar je woont ook de plek is waar je bij hoort. En of je daar iets mee wilt doen, of dat je het overlaat aan anderen en hoopt dat het goed komt. Beide keuzes zijn menselijk. Beide hebben gevolgen. Juist hier, zo dicht bij huis, waar bijna niemand kijkt en bijna alles telt.\
-\
-Meijer ten Zijthoff
+Want dat is misschien wat deze verkiezingen uiteindelijk zijn: niet een antwoord, maar een vraag. De vraag of de plek waar je woont ook de plek is waar je bij hoort. En of je daar iets mee wilt doen, of dat je het overlaat aan anderen en hoopt dat het goed komt. Beide keuzes zijn menselijk. Beide hebben gevolgen. Juist hier, zo dicht bij huis, waar bijna niemand kijkt en bijna alles telt.
