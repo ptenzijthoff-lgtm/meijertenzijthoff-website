@@ -183,7 +183,6 @@ a:hover { color: var(--color-flame-mid); }
     line-height: 1.8;
     color: var(--color-ink);
     text-align: center;
-    font-style: italic;
 }
 
 .featured-article { margin-bottom: 4rem; }
