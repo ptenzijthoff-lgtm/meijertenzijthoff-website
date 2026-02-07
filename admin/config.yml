@@ -45,3 +45,18 @@ collections:
       - { label: "Omslag", name: "omslag", widget: "image", required: false }
       - { label: "Waar te koop", name: "kooplink", widget: "string", required: false, hint: "Link naar webshop of boekhandel" }
       - { label: "Beschrijving", name: "body", widget: "markdown" }
+
+      - name: "kunst"
+    label: "Kunst"
+    folder: "src/kunst"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titel", name: "titel", widget: "string" }
+      - { label: "Jaar", name: "jaar", widget: "string", required: false }
+      - { label: "Techniek", name: "techniek", widget: "string", required: false, hint: "Bijv. acryl op doek, mixed media" }
+      - { label: "Afmetingen", name: "afmetingen", widget: "string", required: false, hint: "Bijv. 80 x 60 cm" }
+      - { label: "Prijs", name: "prijs", widget: "string", required: false, hint: "Bijv. € 450 of 'Verkocht'" }
+      - { label: "Afbeelding", name: "afbeelding", widget: "image" }
+      - { label: "Bestelbaar", name: "bestelbaar", widget: "boolean", default: true }
+      - { label: "Verhaal", name: "body", widget: "markdown", hint: "Het verhaal achter dit schilderij" }
