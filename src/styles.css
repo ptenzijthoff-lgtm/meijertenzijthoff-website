@@ -299,7 +299,16 @@ a:hover { color: var(--color-flame-mid); }
 }
 
 .article-content p { margin-bottom: 1.5rem; }
-
+.article-content img {
+    border: 12px solid #8b7355;
+    border-image: linear-gradient(135deg, #c4a574 0%, #8b7355 25%, #6b5344 50%, #8b7355 75%, #c4a574 100%) 1;
+    box-shadow: 
+        0 0 0 2px #4a3728,
+        4px 4px 15px rgba(0,0,0,0.4);
+    margin: 2rem auto;
+    display: block;
+    max-width: 90%;
+}
 .article-content blockquote {
     margin: 2rem 0;
     padding: 1.5rem 2rem;
