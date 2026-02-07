@@ -1,10 +1,11 @@
 ---
 titel: De stoep voor de deur
 beschrijving: >
-  Meijer ten Zijthoff
-
-
-  De opkomst bij gemeenteraadsverkiezingen is al jaren laag. In Leeuwarden stemde bij de laatste verkiezingen nog geen helft van de kiesgerechtigden. Dat cijfer wordt meestal meestal als een probleem van de burger, ook het aan de mensen ligt dat ze niet op dagen komen. Maar het zou net zo goed zijn dat iets anders kan worden waargenomen.
+  De opkomst bij gemeenteraadsverkiezingen is al jaren laag. In Leeuwarden
+  stemde bij de laatste verkiezingen nog geen helft van de kiesgerechtigden. Dat
+  cijfer wordt meestal meestal als een probleem van de burger, alsof het aan de
+  mensen ligt dat ze niet op dagen komen. Maar het zou net zo goed zijn dat iets
+  anders kan worden waargenomen.
 categorie: essay
 datum: 2026-02-07
 afbeelding: /images/uploads/1000059908.jpg
@@ -14,9 +15,7 @@ Ik liep laatst over de Nieuwestad in Leeuwarden, een straat die ik al meer dan v
 
 Ergens in het gemeentehuis was daarover besloten. Door mensen waarvan ik een paar namen ken, op basis van stukken die ik niet heb gelezen en in vergaderingen waar ik niet was. Er was vast een agenda geweest, een raadsvoorstel, een stemming, of misschien zelfs een inspraakavond waar twaalf mensen kwamen opdagen van wie er acht al wisten wat ze wilden zeggen en vier te laat binnenkwamen en na een kwartier weer vertrokken. Maar is dat erg? Is het een probleem dat ik daar niet was, of is het juist hoe het hoort te werken, dat je mensen kiest die namens jou nadenken over dingen waar je zelf niet aan toekomt? Ik weet het niet. Ik merk alleen dat gemeentepolitiek raakt aan alles wat ik dagelijks zie, ruik en voel, maar zich afspeelt in een wereld die voor mij grotendeels onzichtbaar blijft. Een parallelle werkelijkheid van vergaderzalen, moties, amendementen en begrotingstabellen. Op steenworp afstand van de mensen over wie het gaat.
 
-
-
-Over een paar weken zijn er gemeenteraadsverkiezingen in mijn stad. Dat klinkt als een politiek feit, een datum in de kalender, iets waar je na afloop de uitslag van leest in de krant en denkt: o ja, dat was ook nog. Maar misschien is het meer dan dat. Misschien is het een moment waarop je jezelf kunt afvragen, als je eerlijk bent en  even stilstaat, weet ik eigenlijk wie er over mijn straat beslist? Over de school waar mijn kleinkinderen naartoe fietsen? Over de zorg die mijn buurvrouw van tachtig nodig heeft en die ze steeds moeilijker vindt, omdat het loket is verplaatst en het formulier weer is veranderd en er altijd iemand aan de telefoon zegt dat ze het moet digitaliseren terwijl ze niet eens een computer heeft?
+Over een paar weken zijn er gemeenteraadsverkiezingen in mijn stad. Dat klinkt als een politiek feit, een datum in de kalender, iets waar je na afloop de uitslag van leest in de krant en denkt: o ja, dat was ook nog. Maar misschien is het meer dan dat. Misschien is het een moment waarop je jezelf kunt afvragen, als je eerlijk bent en even stilstaat, weet ik eigenlijk wie er over mijn straat beslist? Over de school waar mijn kleinkinderen naartoe fietsen? Over de zorg die mijn buurvrouw van tachtig nodig heeft en die ze steeds moeilijker vindt, omdat het loket is verplaatst en het formulier weer is veranderd en er altijd iemand aan de telefoon zegt dat ze het moet digitaliseren terwijl ze niet eens een computer heeft?
 
 Ik weet het eerlijk gezegd lang niet altijd. En ik ben iemand die zich ermee bezighoudt, die leest en vraagt, die probeert te begrijpen hoe het werkt. Ik kan me voorstellen hoe het voelt als je dat niet doet. Als je na een dag werken thuiskomt, de kinderen van school haalt, eten kookt, de was opvouwt en dan op de bank valt met het gevoel dat de dag alweer voorbij is. Dat je er niet aan toe bent gekomen om na te denken over wie er namens jou in die raadszaal zit. Is dat onverschilligheid? Of is dat gewoon een leven dat vol genoeg is zonder er ook nog gemeentepolitiek bij te nemen?
 
@@ -42,4 +41,6 @@ Democratie is niet iets wat je eens in de vier jaar uit de kast haalt, afstoft e
 
 Misschien begint het met iets kleins. Met weten wie er in de raad zit. Met één keer een vergadering bijwonen, al is het maar online, al is het maar een halfuur. Met de vraag stellen die je al maanden op je lippen hebt. Met je buurman aanspreken die op een lijst staat en vragen waarom hij dat doet. Of misschien begint het met de eerlijkheid om toe te geven dat je het niet weet, dat je het bent kwijtgeraakt, dat de afstand groter is geworden dan je prettig vindt.
 
-Want dat is misschien wat deze verkiezingen uiteindelijk zijn: niet een antwoord, maar een vraag. De vraag of de plek waar je woont ook de plek is waar je bij hoort. En of je daar iets mee wilt doen, of dat je het overlaat aan anderen en hoopt dat het goed komt. Beide keuzes zijn menselijk. Beide hebben gevolgen. Juist hier, zo dicht bij huis, waar bijna niemand kijkt en bijna alles telt.
+Want dat is misschien wat deze verkiezingen uiteindelijk zijn: niet een antwoord, maar een vraag. De vraag of de plek waar je woont ook de plek is waar je bij hoort. En of je daar iets mee wilt doen, of dat je het overlaat aan anderen en hoopt dat het goed komt. Beide keuzes zijn menselijk. Beide hebben gevolgen. Juist hier, zo dicht bij huis, waar bijna niemand kijkt en bijna alles telt.\
+\
+Meijer ten Zijthoff
