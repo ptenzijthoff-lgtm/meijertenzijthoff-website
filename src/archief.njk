@@ -20,7 +20,8 @@ permalink: /archief/
             <a href="{{ artikel.url }}">{{ artikel.data.titel }}</a>
         </h3>
         <p class="article-excerpt">{{ artikel.data.beschrijving }}</p>
-    </article>
+        <a href="{{ artikel.url }}" class="lees-verder">Lees verder →</a>    
+</article>
     {% else %}
     <p class="no-articles">Nog geen artikelen in het archief.</p>
     {% endfor %}
