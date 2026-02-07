@@ -297,7 +297,6 @@ a:hover { color: var(--color-flame-mid); }
     font-size: 1.15rem;
     line-height: 1.8;
 }
-
 .article-content p { margin-bottom: 1.5rem; }
 .article-content img {
     border: 12px solid #8b7355;
