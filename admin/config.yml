@@ -47,7 +47,7 @@ collections:
       - { label: "Beschrijving", name: "body", widget: "markdown" }
 
       - name: "kunst"
-    label: "Kunst"
+    label: "Kunstverhalen"
     folder: "src/kunst"
     create: true
     slug: "{{slug}}"
