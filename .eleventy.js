@@ -1,5 +1,5 @@
-
-module.exports = function(eleventyConfig) {
+  require('dotenv').config();
+  module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/styles.css": "styles.css"});
   eleventyConfig.addPassthroughCopy({"src/scripts.js": "scripts.js"});
   eleventyConfig.addPassthroughCopy({"src/favicon.svg": "favicon.svg"});
