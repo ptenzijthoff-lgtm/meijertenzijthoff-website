@@ -3,9 +3,9 @@ titel: De stoep voor de deur
 beschrijving: >
   De opkomst bij gemeenteraadsverkiezingen is al jaren laag. In Leeuwarden
   stemde bij de laatste verkiezingen nog geen helft van de kiesgerechtigden. Dat
-  cijfer wordt meestal gezien als een probleem van de burger, alsof het aan de
-  mensen ligt dat ze niet op dagen komen. Maar het zou net zo goed zijn dat iets
-  anders kan worden waargenomen. - door Meijer ten Zijthoff
+  cijfer wordt meestal gepresenteerd als een probleem van de burger, alsof het
+  aan de mensen ligt dat ze niet komen opdagen. Maar het zou net zo goed iets
+  anders kunnen betekenen. - door Meijer ten Zijthoff
 categorie: essay
 datum: 2026-02-07
 afbeelding: /images/uploads/1000059908.jpg
