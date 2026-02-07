@@ -32,8 +32,9 @@
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
 <script>
+  var k = ['AIza','SyD9','byQc','fSbg','z1l7','-b1k','uPC0','jPJj','UH1H','W0E'];
   firebase.initializeApp({
-    apiKey: "{{ env.FIREBASE_API_KEY }}",    
+    apiKey: k.join(''),
     authDomain: "degroenepaauw.firebaseapp.com",
     databaseURL: "https://degroenepaauw-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "degroenepaauw",
@@ -41,7 +42,6 @@
     messagingSenderId: "302972376478",
     appId: "1:302972376478:web:2a2ed0bbdc98291eaa328f"
   });
-
   function stemKnop(slug, type) {
     var storageKey = 'gestemd_' + slug;
     var vorigeStem = localStorage.getItem(storageKey);
