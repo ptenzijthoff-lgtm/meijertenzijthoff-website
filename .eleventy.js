@@ -7,8 +7,10 @@
   eleventyConfig.addPassthroughCopy({"src/images": "images"});
   eleventyConfig.addPassthroughCopy({"src/robots.txt": "robots.txt"});
   eleventyConfig.addPassthroughCopy("admin");
-  
-  eleventyConfig.addFilter("dutchDate", (dateObj) => {
+  eleventyConfig.addGlobalData("env", {
+    FIREBASE_API_KEY: process.env.FIREBASE_API_KEY
+  });  
+    eleventyConfig.addFilter("dutchDate", (dateObj) => {
     const months = ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 
                     'juli', 'augustus', 'september', 'oktober', 'november', 'december'];
     const d = new Date(dateObj);
