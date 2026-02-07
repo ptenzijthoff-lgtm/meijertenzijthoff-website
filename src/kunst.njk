@@ -1,0 +1,47 @@
+---
+layout: layouts/base.njk
+title: Kunst
+description: Schilderijen en verhalen van Meijer ten Zijthoff.
+permalink: /kunst/
+---
+
+<div class="page-content kunst-page">
+    <h2>Kunst</h2>
+    
+    <div class="kunst-intro">
+        <p>Elk schilderij vertelt een verhaal. Soms ontstaan ze uit woede, soms uit verwondering, vaak uit de behoefte om te begrijpen wat woorden alleen niet kunnen vangen. Hier vind je mijn werk — met het verhaal dat erbij hoort.</p>
+        <p>Interesse in een werk? Neem gerust <a href="/contact/">contact</a> op.</p>
+    </div>
+
+    <div class="kunst-grid">
+    {% for werk in collections.kunst %}
+    <div class="kunst-item">
+        {% if werk.data.afbeelding %}
+        <img src="{{ werk.data.afbeelding }}" alt="{{ werk.data.titel }}" class="kunst-thumb">
+        {% endif %}
+        <div class="kunst-info">
+            <h3>{{ werk.data.titel }}</h3>
+            {% if werk.data.jaar or werk.data.techniek %}
+            <p class="kunst-meta">
+                {% if werk.data.jaar %}{{ werk.data.jaar }}{% endif %}
+                {% if werk.data.jaar and werk.data.techniek %} · {% endif %}
+                {% if werk.data.techniek %}{{ werk.data.techniek }}{% endif %}
+                {% if werk.data.afmetingen %} · {{ werk.data.afmetingen }}{% endif %}
+            </p>
+            {% endif %}
+            <div class="kunst-verhaal">{{ werk.content | safe }}</div>
+            {% if werk.data.prijs %}
+            <p class="kunst-prijs">{{ werk.data.prijs }}</p>
+            {% endif %}
+            {% if werk.data.bestelbaar %}
+            <a href="/contact/" class="kunst-bestel">Informatie & bestellen →</a>
+            {% else %}
+            <span class="kunst-verkocht">Verkocht</span>
+            {% endif %}
+        </div>
+    </div>
+    {% else %}
+    <p>Binnenkort verschijnen hier de eerste werken.</p>
+    {% endfor %}
+    </div>
+</div>
