@@ -32,3 +32,9 @@ ogType: article
         </div>
     </div>
 </article>
+<div class="stem-sectie" id="stem-{{ page.fileSlug }}">
+  <span>Wat vind je van dit artikel?</span>
+  <button class="stem-knop stem-up" id="btn-up-{{ page.fileSlug }}" onclick="stemKnop('{{ page.fileSlug }}', 'up')">👍 <span id="tel-up-{{ page.fileSlug }}">0</span></button>
+  <button class="stem-knop stem-down" id="btn-down-{{ page.fileSlug }}" onclick="stemKnop('{{ page.fileSlug }}', 'down')">👎 <span id="tel-down-{{ page.fileSlug }}">0</span></button>
+</div>
+<script>laadStemmen('{{ page.fileSlug }}');</script>
