@@ -34,7 +34,7 @@ collections:
       - { label: "Uitgelicht op homepage", name: "uitgelicht", widget: "boolean", default: false }
       - { label: "Inhoud", name: "body", widget: "markdown" }
 
-  - name: "boeken"
+ - name: "boeken"
     label: "Boeken"
     folder: "src/boeken"
     create: true
@@ -46,7 +46,7 @@ collections:
       - { label: "Waar te koop", name: "kooplink", widget: "string", required: false, hint: "Link naar webshop of boekhandel" }
       - { label: "Beschrijving", name: "body", widget: "markdown" }
 
-      - name: "kunst"
+  - name: "kunst"
     label: "Kunstverhalen"
     folder: "src/kunst"
     create: true
@@ -59,4 +59,3 @@ collections:
       - { label: "Prijs", name: "prijs", widget: "string", required: false, hint: "Bijv. € 450 of 'Verkocht'" }
       - { label: "Afbeelding", name: "afbeelding", widget: "image" }
       - { label: "Bestelbaar", name: "bestelbaar", widget: "boolean", default: true }
-      - { label: "Verhaal", name: "body", widget: "markdown", hint: "Het verhaal achter dit schilderij" }
