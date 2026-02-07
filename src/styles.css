@@ -606,7 +606,7 @@ a:hover { color: var(--color-flame-mid); }
 }
 
 .kunst-thumb {
-    width: 280px;
+    width: 300px;
     height: auto;
     border-radius: 0;
     border: 12px solid #c4a574;    
