@@ -3,7 +3,7 @@ titel: De stoep voor de deur
 beschrijving: >
   De opkomst bij gemeenteraadsverkiezingen is al jaren laag. In Leeuwarden
   stemde bij de laatste verkiezingen nog geen helft van de kiesgerechtigden. Dat
-  cijfer wordt meestal meestal als een probleem van de burger, alsof het aan de
+  cijfer wordt meestal gezien als een probleem van de burger, alsof het aan de
   mensen ligt dat ze niet op dagen komen. Maar het zou net zo goed zijn dat iets
   anders kan worden waargenomen. - door Meijer ten Zijthoff
 categorie: essay
