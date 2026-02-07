@@ -254,8 +254,15 @@ a:hover { color: var(--color-flame-mid); }
     margin-bottom: 0.75rem;
 }
 
-.article-title a { color: var(--color-ink); }
-.article-title a:hover { color: var(--color-flame-dark); }
+.article-title a { 
+    color: var(--color-ink); 
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+.article-title a:hover { 
+    color: var(--color-flame-dark); 
+    text-decoration: underline;
+}
 
 .article-excerpt {
     color: var(--color-ink-light);
