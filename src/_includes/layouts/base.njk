@@ -29,6 +29,52 @@
     <link rel="stylesheet" href="/styles.css">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+<script>
+  firebase.initializeApp({
+    apiKey: "AIzaSyD9byQcfSbgz1l7-b1kuPC0jPJjUH1HW0E",
+    authDomain: "degroenepaauw.firebaseapp.com",
+    databaseURL: "https://degroenepaauw-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "degroenepaauw",
+    storageBucket: "degroenepaauw.firebasestorage.app",
+    messagingSenderId: "302972376478",
+    appId: "1:302972376478:web:2a2ed0bbdc98291eaa328f"
+  });
+
+  function stemKnop(slug, type) {
+    var storageKey = 'gestemd_' + slug;
+    var vorigeStem = localStorage.getItem(storageKey);
+    
+    if (vorigeStem === type) return;
+    
+    var db = firebase.database().ref('stemmen/' + slug);
+    
+    if (vorigeStem) {
+      db.child(vorigeStem).transaction(function(val) { return Math.max((val || 0) - 1, 0); });
+    }
+    
+    db.child(type).transaction(function(val) { return (val || 0) + 1; });
+    localStorage.setItem(storageKey, type);
+    
+    document.getElementById('btn-up-' + slug).classList.toggle('stem-actief', type === 'up');
+    document.getElementById('btn-down-' + slug).classList.toggle('stem-actief', type === 'down');
+  }
+
+  function laadStemmen(slug) {
+    var db = firebase.database().ref('stemmen/' + slug);
+    var vorigeStem = localStorage.getItem('gestemd_' + slug);
+    
+    if (vorigeStem === 'up') document.getElementById('btn-up-' + slug).classList.add('stem-actief');
+    if (vorigeStem === 'down') document.getElementById('btn-down-' + slug).classList.add('stem-actief');
+    
+    db.on('value', function(snap) {
+      var data = snap.val() || {};
+      document.getElementById('tel-up-' + slug).textContent = data.up || 0;
+      document.getElementById('tel-down-' + slug).textContent = data.down || 0;
+    });
+  }
+</script>
 <body>
    <header class="site-header">
    <img src="/images/uploads/paauw-header.jpg" alt="De Groene Paauw" class="header-image">
