@@ -51,7 +51,7 @@ Mijn grootvader Max Groen overleefde zes kampen. Zes. Zijn moeder Judith de Hond
 
 Wanneer ik zie hoe de herinnering aan wat hun is aangedaan wordt ingeroepen om het zwijgen op te leggen over wat er nu in Gaza gebeurt, de honger, de verwoesting, het sterven van tienduizenden burgers, voel ik woede. En schaamte. Niet omdat de misdaad van toen en het geweld van nu één op één vergeleken zouden moeten worden, maar omdat een morele catastrofe uit het verleden wordt gebruikt als schild tegen morele verantwoordelijkheid in het heden.
 
-Soms, in de uren dat ik hierover schrijf, betrap ik mezelf op twijfel die ik niet helemaal kan oplossen. Ik vraag me af of ik het recht heb om dit te zeggen, ik die er niet was. Ik vraag me af of mijn woede over Gaza niet ook een manier is om mijn eigen familiegeschiedenis te verwerken, of ik niet ergens onbewust het bloed van mijn andere grootvader probeer goed te maken door nu aan de goede kant te staan.
+Soms, in de uren dat ik hierover schrijf, betrap ik mezelf op twijfel die ik niet helemaal kan oplossen. Ik vraag me af of ik het recht heb om dit te zeggen, ik die er niet was. Ik vraag me af of mijn woede over Gaza niet ook een manier is om mijn eigen familiegeschiedenis te verwerken,    of ik niet ergens onbewust iets recht probeer te zetten wat mijn andere grootvader scheef heeft achtergelaten, door nu aan de goede kant te staan.
 
 **Ik weet het niet**\
 Misschien is dat zo. Misschien maakt dat wat ik schrijf niet minder waar. Maar ik merk dat ik 's avonds achter mijn laptop soms vastloop op zinnen die te netjes klinken voor wat ik eigenlijk probeer te zeggen, en dan vraag ik me af of die nettigheid zelf ook een vorm van ontwijken is.\
