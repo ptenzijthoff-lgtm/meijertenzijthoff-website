@@ -720,3 +720,20 @@ a:hover { color: var(--color-flame-mid); }
     color: var(--color-flame-mid);
     text-decoration: underline;
 }
+
+.article-content img {
+    float: right;
+    max-width: 300px;
+    height: auto;
+    margin: 0.5rem 0 1.5rem 2rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+@media (max-width: 768px) {
+    .article-content img {
+        float: none;
+        max-width: 100%;
+        margin: 1.5rem 0;
+    }
+}
