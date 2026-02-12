@@ -8,7 +8,7 @@ beschrijving: >+
 
 categorie: essay
 datum: 2026-02-12
-uitgelicht: false
+uitgelicht: true
 ---
 Dit is een tekst die ik niet zou mogen schrijven. Wie zegt dat de herinnering aan de Holocaust wordt misbruikt als politiek drukmiddel voor de staat Israël, wordt antisemiet genoemd. Die beschuldiging is geen argument, het is een reflex die elke kritiek bij voorbaat onmogelijk maakt. En het werkt. Vrijwel iedereen die het doorziet, zwijgt. Uit angst. Uit schuldgevoel. Uit gewoonte.
 
