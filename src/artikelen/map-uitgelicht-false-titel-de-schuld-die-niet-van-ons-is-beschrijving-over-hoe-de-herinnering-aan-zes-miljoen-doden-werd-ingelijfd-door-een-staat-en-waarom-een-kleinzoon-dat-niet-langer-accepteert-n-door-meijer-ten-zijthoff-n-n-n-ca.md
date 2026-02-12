@@ -2,8 +2,8 @@
 titel: De schuld die niet van ons is
 beschrijving: >+
   Over hoe de herinnering aan zes miljoen doden werd ingelijfd door een staat,
-  en waarom een kleinzoon dat niet langer accepteert.
-   -door Meijer ten Zijthoff-
+  en waarom een kleinzoon dat niet langer accepteert.  -door Meijer ten
+  Zijthoff-
 
 
 categorie: essay
@@ -38,9 +38,9 @@ Een tweede pijler is de IHRA-werkdefinitie van antisemitisme, in 2016 opgesteld 
 
 Dichterbij huis: Younes Saramifar, universitair docent aan de Vrije Universiteit Amsterdam, omschreef Israël in een cursustekst als een apartheidsstaat, een term die ook door Amnesty International en Human Rights Watch wordt gebruikt. Wat volgde was geen academisch debat. Er kwamen klachten bij het bestuur. Zijn colleges werden gemonitord. De rector wees hem publiekelijk terecht. En toen begon de haatmail, ook op zijn huisadres, waar hij woont, waar zijn kinderen wonen. Studenten dienden uiteindelijk een klacht in, niet over Saramifars woorden maar over de manier waarop de universiteit hem had behandeld. Niet de feitelijke kwalificatie stond ter discussie, maar het feit dát een academicus die uitspraak had durven doen. Het signaal aan zijn collega's was helder genoeg.
 
-> Organisaties die die angst politiek exploiteren, die bewust het 
+> Organisaties die angst politiek exploiteren, die bewust het 
 > onderscheid vervagen tussen haat tegen Joden en kritiek op een staat, 
-> schaden uiteindelijk de Joodse gemeenschap zelf.
+> schaden uiteindelijk de Joodse gemeenschap zelf
 
 Wie het waagt Israëls handelen publiekelijk ter discussie te stellen, ongeacht vanuit welke positie, weet inmiddels dat het niet bij inhoudelijke tegenspraak zal blijven. De ruimte voor kritiek is niet toevallig kleiner geworden. Die ruimte is actief verkleind.
 
@@ -70,7 +70,7 @@ Het resultaat is niet alleen kwaadheid maar iets dat op lange termijn gevaarlijk
 
 Over twintig, dertig jaar zullen er geen overlevenden meer zijn. Dan rest alleen het verhaal. Als dat verhaal dan onlosmakelijk is verbonden met de rechtvaardiging van ongelijkheid en militair geweld, zal een nieuwe generatie het naast zich neerleggen. Niet uit kwade wil, maar omdat niemand een morele les serieus neemt van een boodschapper die diezelfde les in het heden schendt.
 
-> We moeten een andere taal voor herinnering durven ontwikkelen, een taal die de Holocaust niet langer koppelt aan één staat maar aan waakzaamheid tegen ontmenselijking, waar die ook plaatsvindt.
+> We moeten een andere taal voor herinnering durven ontwikkelen, een taal die de Holocaust niet langer koppelt aan één staat maar aan waakzaamheid tegen ontmenselijking, waar die ook plaatsvindt
 
 **Een oproep tot moed**\
 Europa moet zich bevrijden uit een greep die allang niet meer dient waarvoor hij bedoeld was. Dat betekent niet dat we de Holocaust vergeten. Het betekent dat we hem serieus genoeg nemen om te weigeren hem te laten misbruiken. Dat we durven zeggen: wij erkennen de misdaad, wij dragen de verantwoordelijkheid van de herinnering, maar wij weigeren die herinnering te laten gijzelen door welke staat dan ook.
