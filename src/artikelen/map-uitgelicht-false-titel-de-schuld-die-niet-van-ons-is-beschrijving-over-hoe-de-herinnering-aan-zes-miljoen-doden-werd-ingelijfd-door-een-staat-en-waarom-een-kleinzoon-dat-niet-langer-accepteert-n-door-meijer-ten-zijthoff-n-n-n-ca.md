@@ -13,7 +13,7 @@ uitgelicht: true
 Dit is een tekst die ik niet zou mogen schrijven. Wie zegt dat de herinnering aan de Holocaust wordt misbruikt als politiek drukmiddel voor de staat Israël, wordt antisemiet genoemd. Die beschuldiging is geen argument, het is een reflex die elke kritiek bij voorbaat onmogelijk maakt. En het werkt. Vrijwel iedereen die het doorziet, zwijgt. Uit angst. Uit schuldgevoel. Uit gewoonte.
 
 Laat mij dat zwijgen doorbreken, juist vanwege mijn familiegeschiedenis. In mijn aderen stroomt het bloed van een man die zes concentratiekampen overleefde, én van een man die in de Duitse Kriegsmarine diende. Ik draag de Holocaust niet als abstract schuldgevoel maar als litteken in mijn DNA. Als iemand het recht heeft om te spreken over wat er met die herinnering wordt gedaan, dan zijn het de nakomelingen die nog altijd de echo's horen van wat nooit uitgesproken werd.\
-Ik schrijf dit als kleinzoon. Als drager van een trauma dat ik niet heb gekozen maar dat mij heeft gevormd, en als iemand die weigert te accepteren dat het lijden van mijn familie wordt gebruikt om het lijden van een ander volk te rechtvaardigen.
+Ik schrijf dit als kleinzoon. Als drager van een trauma dat ik niet heb gekozen maar dat mij gedeeltelijk heeft gevormd, en als iemand die weigert te accepteren dat het lijden van mijn familie wordt gebruikt om het lijden van een ander volk te rechtvaardigen.
 
 > Wat begon als een begrijpelijke behoefte aan veiligheid voor een vervolgd volk, is uitgegroeid tot een systeem waarin westerse schuldgevoelens structureel worden geactiveerd om politieke steun af te dwingen
 
