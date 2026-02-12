@@ -24,10 +24,12 @@ Sinds de oprichting van de staat Israël in 1948 is de Holocaustherinnering gele
 
 Dat systeem is geen complot. Het is een samenspel van bewuste strategie en onbewuste reflexen, van lobbyorganisaties en cultureel ingesleten schaamte. Dat besef is ingebed geraakt in instituties, diplomatieke codes en media-reflexen, in de opvoeding van generaties Europeanen die leerden dat schuld de enige juiste houding is tegenover alles wat met Joden te maken heeft. Het zit in schoolprogramma's en herdenkingsrituelen, in de manier waarop redacties koppen formuleren en politici hun woordkeuze afstemmen op wat veilig is. Zelfs de Israëlische oud-Knessetvoorzitter Avraham Burg waarschuwde dat een samenleving die haar hele identiteit bouwt op de Holocaust, eindigt in paranoia en moreel verval.
 
-![](/images/uploads/1000060633.jpg)
+![]()
 
 **De architectuur van de stilte**\
 In de Verenigde Staten is AIPAC een van de machtigste lobbygroepen van het land. Jaarlijks tientallen miljoenen dollars aan het beïnvloeden van congresleden. Politici die zich kritisch uitlaten over de Amerikaanse steun aan Israël weten dat zij bij de volgende verkiezingen een goed gefinancierde tegenkandidaat tegenover zich kunnen vinden. Dat is geen samenzwering; het is openbaar te volgen in de financieringsstructuren van de Amerikaanse politiek. In Nederland vervult het CIDI op kleinere schaal een vergelijkbare rol: het monitort publieke uitspraken, trekt aan de bel bij media en politici en onderhoudt directe lijnen met Den Haag. Wanneer een Nederlandse politicus zich stevig kritisch uitlaat over Israël, volgt vaak binnen korte tijd een telefoontje, een verzoek tot nuancering. Niet altijd met dreigementen, soms juist met een toon van bezorgdheid die moeilijker te weerstaan is. Het effect is hetzelfde: politici leren welke woorden ongestraft kunnen en welke niet.
+
+![](/images/uploads/1000060633.jpg)
 
 In Duitsland, waar de historische schuldreflex het diepst zit, is het politiek vrijwel onmogelijk om Israël fundamenteel te bekritiseren zonder je carrière op het spel te zetten. De Duitse Staatsräson, het beginsel dat de veiligheid van Israël ononderhandelbaar onderdeel is van het Duitse staatsbelang, functioneert als een muur waartegen elke kritiek doodloopt. De Bondsdag nam in 2019 een resolutie aan die de BDS-beweging gelijkstelde aan antisemitisme, wat in de praktijk neerkomt op het delegitimeren van een vreedzame, economische vorm van druk.
 
