@@ -4,7 +4,7 @@
   eleventyConfig.addPassthroughCopy({"src/favicon.svg": "favicon.svg"});
   eleventyConfig.addPassthroughCopy({"src/1000059709.png": "1000059709.png"});  
   eleventyConfig.addPassthroughCopy({"src/images": "images"});
-  eleventyConfig.addPassthroughCopy({"src/robots.txt": "robots.txt"});
+  eleventyConfig.addPassthroughCopy({"src/robots.txt": "robots.txt"}); 
   eleventyConfig.addPassthroughCopy({"manifest.json": "manifest.json"});
   eleventyConfig.addPassthroughCopy({"sw.js": "sw.js"});  
   eleventyConfig.addPassthroughCopy("admin");
