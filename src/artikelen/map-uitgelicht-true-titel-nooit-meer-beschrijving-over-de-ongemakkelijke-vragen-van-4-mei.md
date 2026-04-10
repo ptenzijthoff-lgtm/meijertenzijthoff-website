@@ -1,0 +1,48 @@
+---
+titel: "Ik heb me nog nooit zo ongemakkelijk gevoeld als met deze aanstaande 4 mei herdenking"
+beschrijving: "Over de ongemakkelijke vragen die het ritueel van 4 mei sust. -door Meijer ten Zijthoff-"
+categorie: opinie
+datum: 2026-04-10
+uitgelicht: true
+---
+
+Nederland herdenkt op 4 mei zijn doden. Twee minuten stilte. Kransen. Toespraken over nooit meer. Mensen die namen voorlezen. Een koning die buigt.
+
+Ik sta erbij en denk: welke doden?
+
+De Joodse burgers die Nederland niet beschermde. Dat weten we. Dat zeggen we ook, elk jaar opnieuw. Maar zeggen is iets anders dan begrijpen. Meer dan 100.000 mensen werden gedeporteerd vanuit dit land, met medewerking van dit land. Agenten die lijsten bijhielden. Ambtenaren die stempelden. Buren die wegkeken. Het was geen bezetting die ons overkwam. Het was een bezetting waaraan we meewerkten.
+
+Dat verhaal vertellen we inmiddels vlot. Te vlot. Het is gaan klinken als iets wat achter ons ligt.
+
+Dan de Politionele Acties. Nederland stuurde militairen naar Indonesië om een onafhankelijkheidsbeweging neer te slaan. Dat was geen bevrijdingsoorlog. Dat was een koloniale oorlog. Tienduizenden Indonesiërs kwamen om. De excuses kwamen in 2022. De herdenking veranderde niet. De gevallenen worden herdacht. De beslissing die hen daarheen stuurde, wordt niet herdacht. Die beslissing was fout.
+
+Dan Afghanistan. Dan Irak. Nederland volgde zijn bondgenoten naar oorlogen die niets te maken hadden met verdediging van eigen grondgebied. De NAVO is opgericht om leden te beschermen. Niet om gekozen oorlogen te voeren aan de andere kant van de wereld, in landen die ons niet bedreigden. We gingen mee. We verloren mensen. We herdenken die mensen.
+
+Maar de vraag waarom ze daar waren, stellen we niet. Niet op 4 mei. Niet daarna.
+
+Dat is het patroon. Niet de uitzondering, het patroon. Nederland neemt deel aan oorlogen, kiest zijden, volgt machtsblokken. En elk jaar op 4 mei staan we stil bij de gevolgen, zonder de oorzaken te benoemen. Zonder te vragen wie die beslissingen nam, op basis waarvan, en of ze juist waren.
+
+Herdenken zonder die vragen is geen herdenken. Het is een ritueel dat geruststelt. Het zegt: wij zijn de goeden. Wij staan stil. Wij vergeten niet.
+
+Maar wat vergeten we niet, precies?
+
+Een land dat zijn eigen rol eerlijk wil begrijpen, stelt die vraag hardop. Elk jaar opnieuw. Niet als aanklacht, maar als voorwaarde. Herdenken zonder eerlijkheid over het eigen handelen is zelfrechtvaardiging in een zwart pak.
+
+En dan is er het heden. In Gaza vallen tienduizenden doden. In Libanon. Aanvallen op Iran. Het Internationaal Gerechtshof doet uitspraken. Die worden genegeerd. Mensenrechtenorganisaties documenteren oorlogsmisdaden. Die worden ontkend. Het internationaal recht dat na 1945 werd opgebouwd als antwoord op precies dit soort geweld, wordt systematisch terzijde geschoven.
+
+Dat internationaal recht is niet zomaar ontstaan. Het werd opgebouwd na 1945, juist omdat de wereld had gezien wat er gebeurt als staten ongestraft hun gang kunnen gaan. Het was het antwoord op de Holocaust, op de verwoesting van Europa, op de systematische ontmenselijking van mensen. Nooit meer, zeiden we. En we bouwden regels. Verdragen. Tribunalen.
+
+Nederland zwijgt. De politiek veroordeelt het geweld niet. We doen gewoon zaken. We kiezen zijden zonder het hardop te zeggen. En op 4 mei staan diezelfde politici bij de Dam. Ze buigen. Ze zwijgen twee minuten. En niemand vraagt hun: wat betekent nooit meer voor u, vandaag, nu?
+
+Ik hoor het niet. Nooit meer is nu. Ik hoor het niet.
+
+Soms denk ik: wat zou er gebeuren als we 4 mei afschaffen. Geen kransen meer. Geen koning die buigt. Geen twee minuten stilte.
+
+Waarschijnlijk dit: de vragen die het ritueel nu sust, komen dan los. Wie herdenken we eigenlijk? Waarom waren ze daar? Wie nam die beslissing, en klopte die?
+
+Dat zijn geen ongepaste vragen. Dat zijn de enige vragen die tellen.
+
+Maar ik pleit niet voor afschaffing. Ik pleit voor eerlijkheid na de stilte. De twee minuten mogen. Wat daarna komt, moet pijn doen. Een koning die buigt, een minister-president die zwijgt, en daarna een toespraak die niets kost, dat is geen herdenking. Dat is beheer van het verleden.
+
+Nooit meer betekent iets, of het betekent niets.
+Nooit meer. Totdat het even niet uitkomt.
