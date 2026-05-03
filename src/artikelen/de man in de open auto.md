@@ -7,7 +7,7 @@ uitgelicht: true
 ---
 Er bestaat een foto uit 1925. Een trein vanuit Roosendaal naar Amsterdam, ergens onderweg, en in een raampje aan de rechterkant kijkt mijn overgrootvader naar buiten. Naast hem in de coupé zitten Tom Mix, de cowboy van het witte doek, en zijn vrouw Victoria. Louis heeft hen aan de grens opgehaald. Hij is hun gids.
 <img src="/images/uploads/Volkskrant1955.png" alt="Louis Groen en Tom Mix" style="width:100%;">
-<p><em>Foto uit de Volkskrant 23-02-1955: De heer Louis Groen (rechts in het raampje naast Tom Mix)</em></p>
+<p><em>Foto uit de Volkskrant 23-02-1955: De heer Louis Groen (rechts in het raampje naast Tom Mix met hoed)</em></p>
 
 Op Centraal Station was het chaos. De directies van Fox en Cinema Royal hadden gerekend op honderd à honderdvijftig enthousiastelingen. Het waren er veel meer. De agent op het Stationsplein moest assistentie bellen en kreeg vier agenten te paard. De trein reed enige meters te ver door. Tom Mix stapte uit, de menigte juichte, de portiers van Cinema Royal stonden op het perron.
 
