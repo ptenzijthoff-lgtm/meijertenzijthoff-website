@@ -15,13 +15,13 @@ Mijn opa Max is dan zeven en blijft thuis. Het is nog rustig in zijn leven.
 
 Louis kwam uit het diamantvak. Hij was diamantslijper, zoals zoveel Amsterdamse Joden van zijn generatie. Toen de diamantsector kort voor de Eerste Wereldoorlog instortte, stapten ze een voor een over naar de filmwereld. De Hoop, Hamburger, Kroonenberg, Van Biene, Mendes, Bierman en Groen. Een hele lichting die in de bioscoop een nieuw bestaan zocht.
 
-> De meesten wilden Nederlander zijn, niet Jood-in-Nederland 
-
 Hij viel op. Hij sprak Italiaans, Frans en Engels. Hij speelde viool, gitaar, piano en cimbaal. Hij schilderde. Hij begon als tolk en gids voor buitenlandse gasten in het Amstel Hotel in Amsterdam. Daar ontmoette hij in 1922 William Fox, de Amerikaanse filmmagnaat, op rondreis door Europa. Fox zag iets in hem en nam hem mee naar New York. Daar leerde hij het vak. In 1923 kwam hij terug en werd hij leider van het Nederlandse verkoopbureau van Fox Film Corporation.
 
 In Amerika was hij Louis gaan heten. Die naam hield hij. In de kranten, in het werk, in de filmwereld was hij voortaan Louis Groen. Levie stond op zijn papieren. Het was wat zijn familie zou blijven doen. Zijn zoon werd geboren als Meijer Louis en heette in het leven Max. Mijn vader werd geboren als Robert Louis en heet Rob. De officiële namen droegen ze in stilte. De werkbare namen droegen ze hardop.
 
 Vanaf dat moment bepaalde hij wat de Nederlandse bioscopen uit Hollywood vertoonden. In 1926, vijf jaar nadat hij was begonnen, vertoonden honderdtwintig van de tweehonderdtwaalf bioscoop-theaters in Nederland een Fox-programma ter ere van zijn lustrum. Meer dan de helft van het land. Vanaf 1928 was hij hoofdbestuurslid van de Nederlandse Bioscoopbond, het gesloten bolwerk dat de hele Nederlandse filmsector beheerde. Hij at aan dezelfde tafels als Tuschinski, Hamburger jr., Barnstijn, De Hoop. Decennia, in dezelfde wereld, met dezelfde namen.
+
+> De meesten wilden Nederlander zijn, niet Jood-in-Nederland 
 
 Op 20 februari 1933 vierde hij zijn tienjarig jubileum. De receptie was in de Fransche Zaal van het Carlton-Hotel in Amsterdam. De hele Nederlandse filmwereld was er. Charles van Biene sprak namens de Bioscoopbond en roemde wat hij noemde de groote bescheidenheid van de jubilaris. Het personeel van Fox sprak over de bijzonder aangename verstandhouding waaronder het werkte. Met een diner werd het feest besloten. Het Nieuw Weekblad voor de Cinematografie schreef erover. Jubileum Louis Groen.
 
