@@ -10,7 +10,7 @@ Er bestaat een foto uit 1925. Een trein vanuit Roosendaal naar Amsterdam, ergens
 
 Op Centraal Station was het chaos. De directies van Fox en Cinema Royal hadden gerekend op honderd à honderdvijftig enthousiastelingen. Het waren er veel meer. De agent op het Stationsplein moest assistentie bellen en kreeg vier agenten te paard. De trein reed enige meters te ver door. Tom Mix stapte uit, de menigte juichte, de portiers van Cinema Royal stonden op het perron.
 
-Daarna kwam de open auto. Op het Rokin staat ze tussen de juichende mensen. Achterin staand Tom Mix, die zwaait. Voor hem in de auto zitten mijn overgrootouders. Louis Groen en Judith de Hond. Hij draagt een colbert, zij een hoed met rand. Ze kijken niet in de camera. Ze kijken naar de mensen.
+Daarna kwam de open auto. Op het Rokin staat ze tussen de juichende mensen. Achterin staand Tom Mix, die zwaait. Voor hem in de auto zitten mijn overgrootouders. Louis Groen en Judith de Hond. Hij draagt een colbert, zij een hoed met rand. Ze kijken niet in de camera. Ze kijken naar de mensen. Ik heb de bewegende beelden gezien.
 Mijn opa Max is dan zeven en blijft thuis. Het is nog rustig in zijn leven.
 
 Louis kwam uit het diamantvak. Hij was diamantslijper, zoals zoveel Amsterdamse Joden van zijn generatie. Toen de diamantsector kort voor de Eerste Wereldoorlog instortte, stapten ze een voor een over naar de filmwereld. De Hoop, Hamburger, Kroonenberg, Van Biene, Mendes, Bierman en Groen. Een hele lichting die in de bioscoop een nieuw bestaan zocht.
