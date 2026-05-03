@@ -14,7 +14,7 @@ Daarna kwam de open auto. Op het Rokin staat ze tussen de juichende mensen. Acht
 Mijn opa Max is dan zeven en blijft thuis. Het is nog rustig in zijn leven.
 
 Louis kwam uit het diamantvak. Hij was diamantslijper, zoals zoveel Amsterdamse Joden van zijn generatie. Toen de diamantsector kort voor de Eerste Wereldoorlog instortte, stapten ze een voor een over naar de filmwereld. De Hoop, Hamburger, Kroonenberg, Van Biene, Mendes, Bierman en Groen. Een hele lichting die in de bioscoop een nieuw bestaan zocht.
-> De meesten wilden Nederlander zijn, niet Jood-in-Nederland
+> De meesten wilden Nederlander zijn, niet Jood-in-Nederland <
 Hij viel op. Hij sprak Italiaans, Frans en Engels. Hij speelde viool, gitaar, piano en cimbaal. Hij schilderde. Hij begon als tolk en gids voor buitenlandse gasten in het Amstel Hotel in Amsterdam. Daar ontmoette hij in 1922 William Fox, de Amerikaanse filmmagnaat, op rondreis door Europa. Fox zag iets in hem en nam hem mee naar New York. Daar leerde hij het vak. In 1923 kwam hij terug en werd hij leider van het Nederlandse verkoopbureau van Fox Film Corporation.
 
 In Amerika was hij Louis gaan heten. Die naam hield hij. In de kranten, in het werk, in de filmwereld was hij voortaan Louis Groen. Levie stond op zijn papieren. Het was wat zijn familie zou blijven doen. Zijn zoon werd geboren als Meijer Louis en heette in het leven Max. Mijn vader werd geboren als Robert Louis en heet Rob. De officiële namen droegen ze in stilte. De werkbare namen droegen ze hardop.
