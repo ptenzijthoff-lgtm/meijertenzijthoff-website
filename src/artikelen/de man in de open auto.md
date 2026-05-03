@@ -4,9 +4,9 @@ beschrijving: Een herdenking van mijn overgrootvader Louis Groen
 categorie: essay
 datum: 2026-05-03
 uitgelicht: true
+afbeelding: /images/uploads/Volkskrant1955.png
 ---
 Er bestaat een foto uit de Volkskrant van 23-02-1925. Een trein vanuit Roosendaal naar Amsterdam, ergens onderweg, en in een raampje aan de rechterkant kijkt mijn overgrootvader naar buiten. Naast hem in de coupé zitten Tom Mix, de cowboy van het witte doek, en zijn vrouw Victoria. Louis heeft hen aan de grens opgehaald. Hij is hun gids.
-<img src="/images/uploads/Volkskrant1955.png" alt="Louis Groen en Tom Mix" style="width:100%;">
 
 Op Centraal Station was het chaos. De directies van Fox en Cinema Royal hadden gerekend op honderd à honderdvijftig enthousiastelingen. Het waren er veel meer. De agent op het Stationsplein moest assistentie bellen en kreeg vier agenten te paard. De trein reed enige meters te ver door. Tom Mix stapte uit, de menigte juichte, de portiers van Cinema Royal stonden op het perron.
 
@@ -47,6 +47,8 @@ In de jaren vijftig stapte hij over naar Warner Bros. en werd hun Nederlandse di
 4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
 Louis keek na 1945 naar een wereld waarin de catastrofe alweer aan het wegzakken was. De handel hervatte zich. De bioscopen openden. Mensen gingen weer naar films kijken zoals ze altijd hadden gedaan. En ergens, achter al dat doorgaan, wist hij wat de meeste mensen om hem heen niet meer wilden weten. Dat een wereld in vier jaar weggevaagd kan worden. Dat namen die je hele leven aan tafel zaten, op een ochtend niet meer bestaan. Hij droeg die kennis met zich mee tot hij stierf, zonder dat het een onderwerp was waarover je sprak.
 
+> Morgen noem ik hun namen. Branca. Helena. Rebecca. Michel. Judith. Rudi. En Louis Groen
+> 
 Op andere plekken in de wereld gebeurt het nog. Op dit moment. Tafels lopen leeg. Namen verdwijnen. Mensen die overleven lopen door straten waar buren niet meer wonen. Hele werelden worden uitgewist terwijl wij naar films kijken.
 
 Louis stierf in 1971. Ik was tien. Ik wist niet dat hij mijn overgrootvader was. Pas op mijn zesendertigste ontdekte ik uit welke familie ik was geboren. Drie generaties Groen die hun officiële namen in stilte droegen en hun werkbare namen luid lieten klinken.
