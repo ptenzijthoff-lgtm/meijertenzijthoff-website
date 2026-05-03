@@ -44,11 +44,11 @@ In de krant stond niets over wat ontbrak. Niets over de mensen die er niet meer 
 
 In de jaren vijftig stapte hij over naar Warner Bros. en werd hun Nederlandse directeur. Hij bleef in het hoofdbestuur van de Bioscoopbond. In 1959 reisde hij naar Hollywood. Hij was achtenzestig. Een KLM-vlucht naar New York, een hotel in Los Angeles, een toeristenvisum voor één maand. Wat hij daar zocht weet ik niet. Misschien iets terug willen vinden van wat ooit was begonnen op een treinraam tussen Roosendaal en Amsterdam, met een Amerikaanse cowboy naast zich. Hij stierf twaalf jaar later, in september 1971. Erelid van de Nederlandsche Bioscoopbond.
 
+> Morgen noem ik hun namen. Branca. Helena. Rebecca. Michel. Judith. Rudi. En Louis Groen
+
 4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
 Louis keek na 1945 naar een wereld waarin de catastrofe alweer aan het wegzakken was. De handel hervatte zich. De bioscopen openden. Mensen gingen weer naar films kijken zoals ze altijd hadden gedaan. En ergens, achter al dat doorgaan, wist hij wat de meeste mensen om hem heen niet meer wilden weten. Dat een wereld in vier jaar weggevaagd kan worden. Dat namen die je hele leven aan tafel zaten, op een ochtend niet meer bestaan. Hij droeg die kennis met zich mee tot hij stierf, zonder dat het een onderwerp was waarover je sprak.
 
-> Morgen noem ik hun namen. Branca. Helena. Rebecca. Michel. Judith. Rudi. En Louis Groen
-> 
 Op andere plekken in de wereld gebeurt het nog. Op dit moment. Tafels lopen leeg. Namen verdwijnen. Mensen die overleven lopen door straten waar buren niet meer wonen. Hele werelden worden uitgewist terwijl wij naar films kijken.
 
 Louis stierf in 1971. Ik was tien. Ik wist niet dat hij mijn overgrootvader was. Pas op mijn zesendertigste ontdekte ik uit welke familie ik was geboren. Drie generaties Groen die hun officiële namen in stilte droegen en hun werkbare namen luid lieten klinken.
