@@ -44,7 +44,7 @@ In de krant stond niets over wat ontbrak. Niets over de mensen die er niet meer 
 
 In de jaren vijftig stapte hij over naar Warner Bros. en werd hun Nederlandse directeur. Hij bleef in het hoofdbestuur van de Bioscoopbond. In 1959 reisde hij naar Hollywood. Hij was achtenzestig. Een KLM-vlucht naar New York, een hotel in Los Angeles, een toeristenvisum voor één maand. Wat hij daar zocht weet ik niet. Misschien iets terug willen vinden van wat ooit was begonnen op een treinraam tussen Roosendaal en Amsterdam, met een Amerikaanse cowboy naast zich. Hij stierf twaalf jaar later, in september 1971. Erelid van de Nederlandsche Bioscoopbond.
 
-> Morgen noem ik hun namen. Branca. Helena. Rebecca. Michel. Judith. Rudi. En Louis Groen
+> Pas op mijn zesendertigste ontdekte ik uit welke familie ik was geboren
 
 4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
 Louis keek na 1945 naar een wereld waarin de catastrofe alweer aan het wegzakken was. De handel hervatte zich. De bioscopen openden. Mensen gingen weer naar films kijken zoals ze altijd hadden gedaan. En ergens, achter al dat doorgaan, wist hij wat de meeste mensen om hem heen niet meer wilden weten. Dat een wereld in vier jaar weggevaagd kan worden. Dat namen die je hele leven aan tafel zaten, op een ochtend niet meer bestaan. Hij droeg die kennis met zich mee tot hij stierf, zonder dat het een onderwerp was waarover je sprak.
@@ -56,4 +56,4 @@ Louis stierf in 1971. Ik was tien. Ik wist niet dat hij mijn overgrootvader was.
 Ik heette in mijn paspoort Pieter ten Zijthoff. De adoptie had me uit hun rij weggehaald. Niet alleen de Louis was weg. Ook de Groen, ook de Meijer, ook het patroon.
 Dertig jaar geleden heb ik bij Koninklijk Besluit Meijer Louis laten toevoegen aan mijn naam. Niet omdat het van mij was. Omdat ik het van mij wilde maken.
 
-Morgen noem ik hun namen. Branca. Helena. Rebecca. Michel. Judith. Rudi. En Louis Groen, die overleefde, die opnieuw begon, en wiens naam ik nu draag omdat ik ervoor heb gekozen.
+Op 4 mei noem ik hun namen. Branca. Helena. Rebecca. Michel. Judith. Rudi. En Louis Groen, die overleefde, die opnieuw begon, en wiens naam ik nu draag omdat ik ervoor heb gekozen.
