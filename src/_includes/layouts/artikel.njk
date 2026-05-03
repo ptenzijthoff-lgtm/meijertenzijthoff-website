@@ -31,10 +31,4 @@ ogType: article
             <button class="share-btn link" onclick="copyArticleLink('{{ page.url }}', this)" title="Kopieer link"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button>
         </div>
     </div>
-</article>
-<div class="stem-sectie" id="stem-{{ page.fileSlug }}">
-  <span>Wat vind je van dit artikel?</span>
-  <button class="stem-knop stem-up" id="btn-up-{{ page.fileSlug }}" onclick="stemKnop('{{ page.fileSlug }}', 'up')">👍 <span id="tel-up-{{ page.fileSlug }}">0</span></button>
-  <button class="stem-knop stem-down" id="btn-down-{{ page.fileSlug }}" onclick="stemKnop('{{ page.fileSlug }}', 'down')">👎 <span id="tel-down-{{ page.fileSlug }}">0</span></button>
-</div>
-<script>laadStemmen('{{ page.fileSlug }}');</script>
+
