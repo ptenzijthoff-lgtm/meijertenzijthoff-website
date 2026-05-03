@@ -35,15 +35,16 @@ Zijn moeder Branca werd vermoord. Zijn zus Helena, zijn zus Rebecca, zijn broer 
 Louis zelf overleefde. Niet door verzet, maar door een papier. Hij was na de scheiding van Judith hertrouwd met Johanna van Eekeres, een niet-Joodse vrouw. Dat formulier hield hem buiten de transporten. In 1939 kregen ze een zoon. Hij noemde hem Louis Frederik.
 Van de mensen met wie hij in 1939 nog aan tafel had gezeten, kwam bijna niemand terug. Tuschinski, in Auschwitz. Zijn zwager Gerschtanowitz, in Auschwitz. Zijn zwager Ehrlich, in Sobibor. De namen waarmee Louis de Nederlandse filmsector had opgebouwd, vielen weg in een stilte die ze zelf niet meer konden vullen.
 Toen mijn opa Max in 1945 terugkwam uit zes concentratiekampen, liep hij eerst naar het huis van zijn vader. Louis deed open. Geen Rudi.
+
 >4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
+
 Op 19 januari 1948, bijna drie jaar na de bevrijding, vierde hij in Hotel de l’Europe te Amsterdam zijn vijfentwintigjarig jubileum. Inmiddels was hij ook twintig jaar hoofdbestuurslid van de Nederlandse Bioscoopbond. De hele Nederlandse filmwereld was opnieuw aanwezig. Importeurs, exploitanten, critici, filmkeuring. Louis en Johanna stonden in de bloemen. Het Algemeen Dagblad schreef dat het grote gezelschap hem geluk kwam wensen. Hij gaf ondertussen ook leiding aan het Nederlandse bureau van de Motion Picture Export Association, waarin negen grote Amerikaanse maatschappijen zich hadden verenigd. Begin jaren vijftig was hij enige tijd directielid van theater Hollandia in Amsterdam.
 
 In de krant stond niets over wat ontbrak. Niets over de mensen die er niet meer waren. Niets over Tuschinski, niet meer aan tafel. Niets over de tafels van 1939 die nu leeg waren. De Nederlandse filmwereld stond rond Louis en Johanna en wenste hen geluk, en niemand schreef op wat iedereen wist.
 
 In de jaren vijftig stapte hij over naar Warner Bros. en werd hun Nederlandse directeur. Hij bleef in het hoofdbestuur van de Bioscoopbond. In 1959 reisde hij naar Hollywood. Hij was achtenzestig. Een KLM-vlucht naar New York, een hotel in Los Angeles, een toeristenvisum voor één maand. Wat hij daar zocht weet ik niet. Misschien iets terug willen vinden van wat ooit was begonnen op een treinraam tussen Roosendaal en Amsterdam, met een Amerikaanse cowboy naast zich. Hij stierf twaalf jaar later, in september 1971. Erelid van de Nederlandsche Bioscoopbond.
 
-> 4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
-
+4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
 Louis keek na 1945 naar een wereld waarin de catastrofe alweer aan het wegzakken was. De handel hervatte zich. De bioscopen openden. Mensen gingen weer naar films kijken zoals ze altijd hadden gedaan. En ergens, achter al dat doorgaan, wist hij wat de meeste mensen om hem heen niet meer wilden weten. Dat een wereld in vier jaar weggevaagd kan worden. Dat namen die je hele leven aan tafel zaten, op een ochtend niet meer bestaan. Hij droeg die kennis met zich mee tot hij stierf, zonder dat het een onderwerp was waarover je sprak.
 
 Op andere plekken in de wereld gebeurt het nog. Op dit moment. Tafels lopen leeg. Namen verdwijnen. Mensen die overleven lopen door straten waar buren niet meer wonen. Hele werelden worden uitgewist terwijl wij naar films kijken.
