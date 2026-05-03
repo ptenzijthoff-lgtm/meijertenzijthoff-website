@@ -6,8 +6,6 @@ datum: 2026-05-03
 uitgelicht: true
 afbeelding: /images/uploads/foto uit Volkskrant'1955 - essay LouisGroen.png
 ---
-**De man in de open auto**
-*4 mei*
 Er bestaat een foto uit 1925. Een trein vanuit Roosendaal naar Amsterdam, ergens onderweg, en in een raampje aan de rechterkant kijkt mijn overgrootvader naar buiten. Naast hem in de coupé zitten Tom Mix, de cowboy van het witte doek, en zijn vrouw Victoria. Louis heeft hen aan de grens opgehaald. Hij is hun gids.
 
 Op Centraal Station was het chaos. De directies van Fox en Cinema Royal hadden gerekend op honderd à honderdvijftig enthousiastelingen. Het waren er veel meer. De agent op het Stationsplein moest assistentie bellen en kreeg vier agenten te paard. De trein reed enige meters te ver door. Tom Mix stapte uit, de menigte juichte, de portiers van Cinema Royal stonden op het perron.
