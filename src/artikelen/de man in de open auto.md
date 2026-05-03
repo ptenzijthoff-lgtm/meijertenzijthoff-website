@@ -4,7 +4,7 @@ beschrijving: Een herdenking van mijn overgrootvader Louis Groen
 categorie: essay
 datum: 2026-05-03
 uitgelicht: true
-afbeelding: ![Alt tekst](/images/uploads/Volkskrant1955.png
+afbeelding: ![Louis Groen en Tom MIx](/images/uploads/Volkskrant1955.png
 *foto uit de Volkskrant 23-02-1955: De heer Louis Groen (rechts in het raampje naast Tom Mix)*
 ---
 
