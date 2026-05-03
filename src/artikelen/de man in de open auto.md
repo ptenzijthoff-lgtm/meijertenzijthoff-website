@@ -1,6 +1,6 @@
 ---
 titel: De man in de open auto
-beschrijving: Een herdenking van mijn overgrootvader Louis Groen. De man die de Amerikaanse film naar Nederland bracht.
+beschrijving: Een herdenking van mijn overgrootvader Louis Groen. Hij die de Amerikaanse film naar Nederland bracht.
 categorie: essay
 datum: 2026-05-03
 uitgelicht: true
