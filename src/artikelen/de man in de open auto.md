@@ -4,7 +4,6 @@ beschrijving: Een herdenking van mijn overgrootvader Louis Groen
 categorie: essay
 datum: 2026-05-03
 uitgelicht: true
-afbeelding: /images/uploads/Volkskrant1955.png
 ---
 Er bestaat een foto uit 1925. Een trein vanuit Roosendaal naar Amsterdam, ergens onderweg, en in een raampje aan de rechterkant kijkt mijn overgrootvader naar buiten. Naast hem in de coupé zitten Tom Mix, de cowboy van het witte doek, en zijn vrouw Victoria. Louis heeft hen aan de grens opgehaald. Hij is hun gids.
 <img src="/images/uploads/Volkskrant1955.png" alt="Louis Groen en Tom Mix" style="width:100%;">
