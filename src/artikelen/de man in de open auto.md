@@ -14,6 +14,7 @@ Daarna kwam de open auto. Op het Rokin staat ze tussen de juichende mensen. Acht
 Mijn opa Max is dan zeven en blijft thuis. Het is nog rustig in zijn leven.
 
 Louis kwam uit het diamantvak. Hij was diamantslijper, zoals zoveel Amsterdamse Joden van zijn generatie. Toen de diamantsector kort voor de Eerste Wereldoorlog instortte, stapten ze een voor een over naar de filmwereld. De Hoop, Hamburger, Kroonenberg, Van Biene, Mendes, Bierman en Groen. Een hele lichting die in de bioscoop een nieuw bestaan zocht.
+
 > De meesten wilden Nederlander zijn, niet Jood-in-Nederland 
 
 Hij viel op. Hij sprak Italiaans, Frans en Engels. Hij speelde viool, gitaar, piano en cimbaal. Hij schilderde. Hij begon als tolk en gids voor buitenlandse gasten in het Amstel Hotel in Amsterdam. Daar ontmoette hij in 1922 William Fox, de Amerikaanse filmmagnaat, op rondreis door Europa. Fox zag iets in hem en nam hem mee naar New York. Daar leerde hij het vak. In 1923 kwam hij terug en werd hij leider van het Nederlandse verkoopbureau van Fox Film Corporation.
@@ -41,7 +42,7 @@ In de krant stond niets over wat ontbrak. Niets over de mensen die er niet meer 
 
 In de jaren vijftig stapte hij over naar Warner Bros. en werd hun Nederlandse directeur. Hij bleef in het hoofdbestuur van de Bioscoopbond. In 1959 reisde hij naar Hollywood. Hij was achtenzestig. Een KLM-vlucht naar New York, een hotel in Los Angeles, een toeristenvisum voor één maand. Wat hij daar zocht weet ik niet. Misschien iets terug willen vinden van wat ooit was begonnen op een treinraam tussen Roosendaal en Amsterdam, met een Amerikaanse cowboy naast zich. Hij stierf twaalf jaar later, in september 1971. Erelid van de Nederlandsche Bioscoopbond.
 
-4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
+> 4 mei is geen archiefdag. Het is een dag waarop we onszelf de moeilijkste vraag stellen die een herdenking kent. Wat doe ik nu?
 
 Louis keek na 1945 naar een wereld waarin de catastrofe alweer aan het wegzakken was. De handel hervatte zich. De bioscopen openden. Mensen gingen weer naar films kijken zoals ze altijd hadden gedaan. En ergens, achter al dat doorgaan, wist hij wat de meeste mensen om hem heen niet meer wilden weten. Dat een wereld in vier jaar weggevaagd kan worden. Dat namen die je hele leven aan tafel zaten, op een ochtend niet meer bestaan. Hij droeg die kennis met zich mee tot hij stierf, zonder dat het een onderwerp was waarover je sprak.
 
