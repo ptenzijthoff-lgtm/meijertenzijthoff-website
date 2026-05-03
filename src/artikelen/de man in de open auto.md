@@ -1,6 +1,6 @@
 ---
 titel: De man in de open auto
-beschrijving: Een herdenking van Levie Groen, 4 mei 2026
+beschrijving: Een herdenking van mijn overgrootvader Louis Groen, 4 mei 2026
 categorie: essay
 datum: 2026-05-03
 uitgelicht: true
